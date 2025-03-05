@@ -30,7 +30,8 @@ The goal is to clean, transform, and match this data into a structured SQL Serve
 
 ### **1. Prerequisites**  
 - **SQL Server & SSMS** is installed
-- **Python 3.x** is installed  
+- **Python 3.x** is installed
+- **Jupyter Notebook** is installed
 - Required Python libraries:  
   ```sh
   pip install pandas pyodbc yaml xmltodict
@@ -44,20 +45,24 @@ The goal is to clean, transform, and match this data into a structured SQL Serve
      - A new window will open, please create a Database name. Notice the Server name as this will be used in future steps which is highlighted under _Connection:_ in below image.
      - ![create_database_ssms](https://github.com/user-attachments/assets/f088c4f2-82e4-4ec5-b4cd-10321e74c525)
     
-#### **Step 2.2: Create Tables in SQL Server**
-  1. Once Databse is created as mentioned in previous step 2.1, open a new query window to start creating our schema.
+#### **Step 2.2: Create Raw Tables in SQL Server**
+  1. Once Database is created as mentioned in previous step 2.1, open a new query window to start creating our schema.
     - ![database_ssms_new_query](https://github.com/user-attachments/assets/77282d02-7f37-41e6-aadc-e9e3fb9fcac6)
-  2. 
-  3. The Object Explorer will open and might need to expand it to see the Databases folder
-  5. Run the provided SQL scripts (setup.sql**UPDATE WHEN FILE IS AVAILABLE**) to create tables raw tables.
-  6. **UPDATE** Why Use a Stored Procedure?
-  7. **UPDATE** Ensures all tables are created in one execution.
-  8. **UPDATE** Prevents duplicate table creation with IF NOT EXISTS.
-  9. **UPDATE** Simplifies database setup for future users.
+  2. Now execute the entirety of the code _venmito_creating_raw_tables_sql_scripts.sql_ located in the Scripts folder.
+    - This will create a stored procedure and execute it as well. In result all neccesary raw tables and a mapping table will be created. 
      
-#### **Step 2.2: Load Data into SQL Server using Jupyter Notebook** 
-  1. Execute the Python scripts (setup.sql**UPDATE WHEN FILE IS AVAILABLE**) to ingest and transform data
-     
+#### **Step 2.3: Load Data into SQL Server using Jupyter Notebook** 
+  1. Open Jupyter Notebook and create a new session with Python 3*
+  2. There are 2 python scypts that will load the raw tables created in step 2.2.
+     - Copy and paste the query inside the file name _import_code_python_load_compile.txt_ in the Scripts folder. Make sure to run the statement to load successfully 
+     - Now repeat the step with file name _import_code_transfers_csv.txt_
+     ![Jupyter_notebook_load_compile](https://github.com/user-attachments/assets/39e2ff5c-8a97-4152-8e81-7fd5699dec8b)
+
+#### **Step 2.4: Create Staging Tables for analysis**
+  1. Similar to step 2.1, open a new query window and execute the entirety of the code _venmito_creating_stg_tables_sql_scripts.sql_ located in the scripts folder
+     - This will create a stored procedure and execute it as well.
+  2. All tables are now avaialble in the schema for analysis and reporting.  
+
 ## **Future Enhancements** 
 - **(Need to update wording)** Adding transfers.csv file to the importing all codes
 - **(Need to update wording)** Create a Stored Procedure to create all SQL tables from 1 action

@@ -71,20 +71,6 @@ BEGIN
 		);
     END
 
-	-- Create raw_xml_transactions table
-    IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'raw_xml_transactions')
-    BEGIN
-        CREATE TABLE raw_xml_transactions  (
-			transaction_id INT NULL,
-			store VARCHAR(255) NULL,
-			phone VARCHAR(255) NULL,
-			item VARCHAR(255) NULL,
-			price float NULL,
-			price_per_item float NULL,
-			quantity INT NULL,
-		);
-    END
-
 	-- Create venmito_mapping_tool table
     IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'venmito_mapping_tool')
     BEGIN

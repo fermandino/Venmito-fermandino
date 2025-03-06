@@ -7,7 +7,7 @@ fernandomandino@gmail.com
 
 ## **Description**
 
-This solution aims to consolidate and analyze data from multiple disparate sources to extract meaningful insights for Venmito, a payment company. The solution reads, loads, and integrates data from the following formats:
+This solution aims to consolidate and analyze data from multiple sources to extract meaningful insights for Venmito, a payment company. The solution reads, loads, and integrates data from the following formats:
 
 - **JSON**  (`people.json`) – Contains client information
 - **YAML** (`people.yml`) – Additional client data
@@ -38,7 +38,7 @@ The goal is to clean, transform, and match this data into a structured SQL Serve
 
 ### **2. Running the Solution**  
 #### **Step 2.1: Create Database Schema & Tables in SQL Server**
-  1. Open SQL Server Management Studio (SSMS) and connect to your server which should be already created (as noted in pre-requisite)
+  1. Open SQL Server Management Studio (SSMS) and connect to your server which should be already created (as noted in prerequisite)
   2. The Object Explorer will open and might need to expand it to see the Databases folder
   3. Go to your folders and Right-Click on Databases
      - Select _New Database_

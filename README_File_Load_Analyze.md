@@ -21,7 +21,7 @@ The goal is to clean, transform, and match this data into a structured SQL Serve
 - Python & Jupyter Notebook for data ingestion: Used to extract files, minimal transformation, and load data into SQL Server.
 - SQL Server for Storage: Chosen for its robust querying capabilities.
 - Structured Data Schema:
-  - Landing Phase (**raw_** sourcefiletype_datafilename): All raw files are loaded as-is(some exceptions captured in **UPDATE WHEN FILE IS AVAILABLE**), ensuring original data is always available for reference.
+  - Landing Phase (**raw_** sourcefiletype_datafilename): All raw files are loaded as-is, ensuring original data is always available for reference.
   - Staging Phase (**stg_** tables): Data is processed, transformed, and structured to support analysis.
   - Processed tables (**T_** tables): Created a structured dataset for accurate reporting and visualization.
   - This approach ensures traceability and allows for data audits when necessary.
@@ -59,12 +59,27 @@ The goal is to clean, transform, and match this data into a structured SQL Serve
      ![Jupyter_notebook_load_compile](https://github.com/user-attachments/assets/39e2ff5c-8a97-4152-8e81-7fd5699dec8b)
 
 #### **Step 2.4: Create Staging Tables for analysis**
-  1. Similar to step 2.1, open a new query window and execute the entirety of the code _venmito_creating_stg_tables_sql_scripts.sql_ located in the scripts folder
+  1. Similar to step 2.1, open a new query window and execute the entirety of the code _venmito_creating_stg_tables_sql_scripts.sql_ located in the _Scripts_ folder
      - This will create a stored procedure and execute it as well.
-  2. All tables are now avaialble in the schema for analysis and reporting.  
+  2. All tables are now avaialble in the schema for analysis and reporting.
+     - stg_merged_people
+     - stg_promotions
+     - stg_transactions
+     - stg_transfers
 
-## **Future Enhancements** 
+#### **Step 2.5: Create Transformed Tables for Visualization **
+  1. Similar to step 2.1, open a new query window and execute the entirety of the code _venmito_creating_stg_tables_sql_scripts.sql_ located in the _Scripts_ folder
+     - This will create a stored procedure and execute it as well.
+
+## **Data Consumption**
+  1. Now that we have created a database and structured tables in SQL Server technical users can access the data for analysis or their respective needs. 
+  2. With the creation of the database we are able to export the tables in a _csv_ file format and share with non-technical users. Please find the csv files in the _CSV Tables_ folder.
+  3. users with access Similar to step 2.1, open a new query window and execute the entirety of the code _venmito_creating_stg_tables_sql_scripts.sql_ located in the _Scripts_ folder
+     - This will create a stored procedure and execute it as well.
+
+## **Future Enhancements**
 - **(Need to update wording)** Adding transfers.csv file to the importing all codes
+- Creating a connection to a visualization tool (like Tableau) for reporting graphs and additional insights for business and technical users. 
 - **(Need to update wording)** Create a Stored Procedure to create all SQL tables from 1 action
 - **(Need to update wording)** Update Database Schema by implementing rules in the ingestion and validation of records (Primary Keys, Nullable Columns, etc)
 - Automate the pipeline by using orchestration tools like Airflow.

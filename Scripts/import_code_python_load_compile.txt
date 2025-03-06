@@ -1,0 +1,113 @@
+# pyodbc simplifies access to ODBC databases such as Oracle, MySQL, PostgreSQL and SQL Server which we are using
+# pandas module used for data analysis and manipulation such as data structures like DataFrames which we use in this code
+# json provides function to work with json data and parse the data as used below
+# yaml module used to convert YAML to other data formats like JSON which we use in this code
+# xmltodict module in Python allows to convert XML data into a Python dictionary which is used below
+
+import pyodbc
+import pandas as pd
+import json
+import yaml
+import xmltodict
+
+
+#Establish connection to SQL Server Database ( Please change below variable values "server" and "database" to the corresponding in your system)
+server = r'Fertastico\SQLEXPRESS' 
+database = r'Venmito'
+
+conn = pyodbc.connect(f'DRIVER={{SQL Server}};SERVER={server};DATABASE={database};Trusted_Connection=yes;')
+cursor = conn.cursor() #cursor fetches data in smaller chunks, improving performance
+
+# Function to load CSV
+def load_csv(file_path, table_name):
+    df = pd.read_csv(file_path)
+
+    for col in df.select_dtypes(include=['float64', 'int64']).columns:
+        df[col] = pd.to_numeric(df[col], errors='coerce')  # Convert invalid numbers to NaN
+
+    df = df.fillna('')  # Replace NaN with 0 or use df.fillna(default_value)
+    
+    insert_data(df, table_name)
+
+# Function to load JSON
+def load_json(file_path, table_name):
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+    df = pd.json_normalize(data)  # Flatten JSON if needed Normalize semi-structured JSON data into a flat table. This method is designed to transform semi-structured JSON data, such as nested dictionaries or lists, into a flat table. This is particularly useful when handling JSON-like data structures that contain deeply nested fields.
+    for col in df.select_dtypes(include=['object']).columns:
+        df[col] = df[col].astype(str)
+    
+    insert_data(df, table_name)
+
+# Function to load YAML
+def load_yaml(file_path, table_name):
+    with open(file_path, 'r') as file:
+        data = yaml.safe_load(file)
+    df = pd.json_normalize(data)
+    
+    insert_data(df, table_name)
+
+# Function to load XML (Convert to Dictionary)
+def load_xml(file_path, table_name):
+    with open(file_path, 'r') as file:
+        data = xmltodict.parse(file.read())  # Convert XML to dictionary
+
+    transactions = data['transactions']['transaction']  # Renaming transaction column due to SQL Server which is a reserved keyword
+
+    # Create a list to store flattened rows
+    records = []
+
+    for transaction in transactions:
+        transaction_id = transaction["@id"]  # Extract transaction ID
+        phone = transaction["phone"]
+        store = transaction["store"]
+
+        # Handle nested items
+        items = transaction["items"]["item"]
+        if isinstance(items, dict):  # If only one item, wrap in a list
+            items = [items]
+
+        for item in items:
+            records.append({
+                "transaction_id": transaction_id,
+                "store": store,
+                "phone": phone,
+                "item": item["item"],
+                "price": float(item["price"]),
+                "price_per_item": float(item["price_per_item"]),
+                "quantity": int(item["quantity"])
+            })
+
+    df = pd.DataFrame(records)
+    insert_data(df, table_name)
+
+# Function to insert data into SQL Server
+def insert_data(df, table_name):
+    columns = ", ".join(df.columns)
+    placeholders = ", ".join(["?" for _ in df.columns])
+    insert_sql = f"INSERT INTO {table_name} ({columns}) VALUES ({placeholders})"
+
+    for row in df.itertuples(index=False, name=None):
+        cursor.execute(insert_sql, row)
+
+    conn.commit()
+    print(f"Data inserted into {table_name} successfully.")    
+    
+
+# File paths (Update these paths between the double quotes "" to the location of the source files )
+csv_file = r"C:\Users\ferna\OneDrive\Documents\SQL Server Management Studio\Xtillion\Venmito\Source Files\promotions.csv"
+json_file = r"C:\Users\ferna\OneDrive\Documents\SQL Server Management Studio\Xtillion\Venmito\Source Files\people.json"
+yaml_file = r"C:\Users\ferna\OneDrive\Documents\SQL Server Management Studio\Xtillion\Venmito\Source Files\people.yml"
+xml_file = r"C:\Users\ferna\OneDrive\Documents\SQL Server Management Studio\Xtillion\Venmito\Source Files\transactions.xml"
+
+# Table names in SQL Server
+csv_table = r"raw_csv_promotions"
+json_table = r"raw_json_people"
+yaml_table = r"raw_yaml_people"
+xml_table = r"raw_xml_transactions"
+
+# Load files
+load_csv(csv_file, csv_table)
+load_json(json_file, json_table)
+load_yaml(yaml_file, yaml_table)
+load_xml(xml_file, xml_table)

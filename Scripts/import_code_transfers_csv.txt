@@ -1,0 +1,35 @@
+import pyodbc
+import pandas as pd
+
+server = r'Fertastico\SQLEXPRESS'
+database = r'Venmito'
+#Establish connection to Database 
+conn = pyodbc.connect(f'DRIVER={{SQL Server}};SERVER={server};DATABASE={database};Trusted_Connection=yes;')
+cursor = conn.cursor()
+#cursor fetches data in smaller chunks, improving performance and efficiency
+
+# Function to load CSV
+def load_csv(file_path, table_name):
+    df = pd.read_csv(file_path)
+    insert_data(df, table_name)
+
+# Function to insert data into SQL Server
+def insert_data(df, table_name):
+    columns = ", ".join(df.columns)
+    placeholders = ", ".join(["?" for _ in df.columns])
+    insert_sql = f"INSERT INTO {table_name} ({columns}) VALUES ({placeholders})"
+
+    for row in df.itertuples(index=False, name=None):
+        cursor.execute(insert_sql, row)
+
+    conn.commit()
+    print(f"Data inserted into {table_name} successfully.")
+
+# File paths (Update these paths)
+csv_file = r"C:\Users\ferna\OneDrive\Documents\SQL Server Management Studio\Xtillion\Venmito\Source Files\transfers.csv"
+
+# Table names in SQL Server
+csv_table = r"raw_csv_transfers"
+
+# Load files
+load_csv(csv_file, csv_table)

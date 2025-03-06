@@ -46,8 +46,8 @@ BEGIN
 				 ELSE map.target_value 
 				 END as item,
 			quantity,
-			price_per_item,
-			price as total_item_amount, 
+			FORMAT(price_per_item,'C') as price_per_item,
+			FORMAT(price,'C') as total_item_amount,  
 			sum(price) OVER (partition by transaction_id ) as total_transaction_amount
 		INTO stg_transactions
 		FROM raw_xml_transactions t

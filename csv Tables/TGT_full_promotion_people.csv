@@ -1,0 +1,201 @@
+promotion_id,client_email,telephone,promotion,responded,new_reach,people_id,full_name,city,country,android,desktop,iphone
+1,Emelia.Page@example.com,929-575-4315,Coca-Cola,YES,Emelia.Page@example.com,144,Emelia Page,San Francisco,USA,No,Yes,Yes
+2,Myrtle.Doyle@example.com,525-796-7991,Gatorade,YES,Myrtle.Doyle@example.com,74,Myrtle Doyle,Toronto,Canada,Yes,Yes,Yes
+3,Huw.Valentine@example.com,441-847-1955,Oreo,YES,Huw.Valentine@example.com,109,Huw Valentine,Chicago,USA,No,Yes,Yes
+4,Alessandro.French@example.com,216-516-1958,Pepsi,YES,,934,Alessandro French,San Diego,USA,Yes,Yes,No
+5,Isobelle.Davidson@example.com,237-295-4490,Pepsi,YES,237-295-4490,530,Isobelle Davidson,San Francisco,USA,No,No,Yes
+6,Steven.Reid@example.com,490-977-4025,Pepsi,YES,,296,Steven Reid,San Francisco,USA,Yes,Yes,No
+7,Barry.Buck@example.com,667-391-6777,Netflix,NO,Barry.Buck@example.com,915,Barry Buck,San Francisco,USA,Yes,Yes,Yes
+8,Caleb.Obrien@example.com,223-387-1014,Kraft Cheese,YES,,768,Caleb Obrien,Toronto,Canada,Yes,No,Yes
+9,Kyran.Duncan@example.com,433-632-3326,Oreo,YES,433-632-3326,971,Kyran Duncan,New York,USA,Yes,Yes,No
+10,Gerard.Francis@example.com,958-724-3846,Oreo,YES,Gerard.Francis@example.com,211,Gerard Francis,Chicago,USA,Yes,Yes,Yes
+11,Nora.Donaldson@example.com,414-618-5713,Colgate,YES,,828,Nora Donaldson,San Diego,USA,Yes,Yes,Yes
+12,Alejandro.Kent@example.com,915-320-3214,Gatorade,YES,915-320-3214,927,Alejandro Kent,Chicago,USA,Yes,No,Yes
+13,Ismaeel.Schmidt@example.com,110-478-3409,Pepsi,YES,Ismaeel.Schmidt@example.com,829,Ismaeel Schmidt,Los Angeles,USA,No,No,Yes
+14,Neo.Lara@example.com,276-319-4768,Dove,YES,Neo.Lara@example.com,620,Neo Lara,Toronto,Canada,Yes,No,Yes
+15,Luisa.Haley@example.com,916-879-3164,Gatorade,YES,Luisa.Haley@example.com,922,Luisa Haley,Barcelona,Spain,No,Yes,Yes
+16,Deacon.Boone@example.com,950-335-6994,Oreo,YES,950-335-6994,861,Deacon Boone,New York,USA,Yes,Yes,Yes
+17,Azaan.Roth@example.com,130-119-2032,Netflix,YES,130-119-2032,206,Azaan Roth,Los Angeles,USA,Yes,No,Yes
+18,Bradley.Butler@example.com,937-172-2269,RedBull,YES,937-172-2269,31,Bradley Butler,Montreal,Canada,No,No,Yes
+19,Usman.Swanson@example.com,431-103-9132,Coca-Cola,NO,,100,Usman Swanson,London,United Kingdom,Yes,Yes,Yes
+20,Christopher.Pollard@example.com,915-743-9764,Gatorade,NO,915-743-9764,415,Christopher Pollard,San Diego,USA,Yes,Yes,Yes
+21,Neil.Haynes@example.com,421-219-5363,Coca-Cola,YES,,225,Neil Haynes,San Diego,USA,Yes,Yes,Yes
+22,Owen.Michael@example.com,178-910-8863,Oreo,NO,178-910-8863,383,Owen Michael,Toronto,Canada,No,No,Yes
+23,Katrina.Foster@example.com,497-544-5065,Coca-Cola,NO,,336,Katrina Foster,London,United Kingdom,Yes,No,Yes
+24,Everly.Key@example.com,152-557-5017,Gatorade,NO,,627,Everly Key,New York,USA,No,No,Yes
+25,Prince.Sharp@example.com,886-278-8764,Pepsi,NO,Prince.Sharp@example.com,550,Prince Sharp,Montreal,Canada,No,Yes,Yes
+26,Zara.Washington@example.com,679-367-1926,Dove,NO,679-367-1926,246,Zara Washington,London,United Kingdom,No,Yes,Yes
+27,Herman.Knowles@example.com,130-936-8674,Dove,NO,Herman.Knowles@example.com,164,Herman Knowles,Los Angeles,USA,No,Yes,Yes
+28,Janet.Hughes@example.com,194-769-6265,Kit-Kat,NO,Janet.Hughes@example.com,618,Janet Hughes,Los Angeles,USA,No,No,Yes
+29,Cleo.Greer@example.com,138-806-4136,Pepsi,NO,Cleo.Greer@example.com,77,Cleo Greer,Los Angeles,USA,Yes,No,Yes
+30,David.Mcconnell@example.com,967-585-7262,Kit-Kat,NO,967-585-7262,576,David Mcconnell,San Francisco,USA,No,No,Yes
+31,Rishi.Barron@example.com,331-128-4346,Oreo,NO,,608,Rishi Barron,Montreal,Canada,Yes,Yes,Yes
+32,Aidan.Mcmahon@example.com,896-647-2628,Pepsi,NO,896-647-2628,525,Aidan Mcmahon,New York,USA,Yes,Yes,Yes
+33,Faizan.Hill@example.com,572-649-5353,RedBull,NO,,294,Faizan Hill,San Francisco,USA,Yes,No,No
+34,Fraser.Hooper@example.com,228-636-9031,Oreo,NO,,384,Fraser Hooper,New York,USA,No,No,Yes
+35,Nikhil.Peck@example.com,395-769-3300,RedBull,NO,,357,Nikhil Peck,Chicago,USA,No,Yes,Yes
+36,Mark.Friedman@example.com,111-862-3502,Kit-Kat,NO,Mark.Friedman@example.com,207,Mark Friedman,San Diego,USA,Yes,Yes,No
+37,Elisabeth.Tran@example.com,363-441-2226,Pepsi,NO,Elisabeth.Tran@example.com,334,Elisabeth Tran,London,United Kingdom,Yes,Yes,No
+38,Ahmad.Castro@example.com,629-807-5687,Pepsi,YES,629-807-5687,81,Ahmad Castro,San Francisco,USA,Yes,No,No
+39,Tony.Shepard@example.com,416-772-8288,Colgate,NO,416-772-8288,218,Tony Shepard,Barcelona,Spain,No,No,Yes
+40,Brenda.Deleon@example.com,997-981-2043,Netflix,NO,,798,Brenda Deleon,Paris,France,No,No,Yes
+41,Astrid.Delgado@example.com,641-317-3741,Pepsi,NO,,599,Astrid Delgado,London,United Kingdom,Yes,Yes,Yes
+42,Dhruv.Villarreal@example.com,931-559-3083,RedBull,NO,,180,Dhruv Villarreal,London,United Kingdom,Yes,Yes,No
+43,Tyler.Vasquez@example.com,899-668-7177,Colgate,NO,Tyler.Vasquez@example.com,909,Tyler Vasquez,London,United Kingdom,No,No,Yes
+44,Millie.Yates@example.com,673-424-3380,Gatorade,NO,Millie.Yates@example.com,544,Millie Yates,Chicago,USA,Yes,No,Yes
+45,Zack.Mcclain@example.com,586-280-9496,Kit-Kat,NO,Zack.Mcclain@example.com,133,Zack Mcclain,New York,USA,No,No,Yes
+46,Chester.Bell@example.com,501-541-1518,Netflix,NO,501-541-1518,853,Chester Bell,New York,USA,No,No,Yes
+47,Safaa.Lopez@example.com,863-714-5286,Colgate,NO,,402,Safaa Lopez,Chicago,USA,Yes,No,No
+48,Kamal.Gates@example.com,622-660-1036,Oreo,NO,622-660-1036,581,Kamal Gates,Chicago,USA,Yes,No,No
+49,Tomasz.Baker@example.com,778-642-7614,Oreo,NO,778-642-7614,872,Tomasz Baker,Barcelona,Spain,Yes,Yes,No
+50,Mark.Friedman@example.com,111-862-3502,Netflix,NO,,207,Mark Friedman,San Diego,USA,Yes,Yes,No
+51,Wade.Hancock@example.com,245-455-9119,Pepsi,NO,,703,Wade Hancock,London,United Kingdom,Yes,Yes,Yes
+52,Kian.Stephens@example.com,820-881-5658,Pepsi,NO,820-881-5658,418,Kian Stephens,Chicago,USA,Yes,Yes,Yes
+53,Danyal.Lang@example.com,629-875-4423,Gatorade,NO,Danyal.Lang@example.com,593,Danyal Lang,Toronto,Canada,No,Yes,Yes
+54,Jean.Winters@example.com,526-938-2752,Kit-Kat,YES,,973,Jean Winters,San Diego,USA,Yes,Yes,No
+55,Tomas.Griffith@example.com,492-337-4468,Netflix,YES,Tomas.Griffith@example.com,42,Tomas Griffith,London,United Kingdom,No,No,Yes
+56,Marwa.Dennis@example.com,444-295-8051,Gatorade,YES,,752,Marwa Dennis,Chicago,USA,No,No,Yes
+57,Maximillian.Atkins@example.com,421-834-8740,Oreo,YES,,264,Maximillian Atkins,Toronto,Canada,Yes,No,Yes
+58,Luisa.Haley@example.com,916-879-3164,Oreo,NO,Luisa.Haley@example.com,922,Luisa Haley,Barcelona,Spain,No,Yes,Yes
+59,Jean.Winters@example.com,526-938-2752,Pepsi,YES,526-938-2752,973,Jean Winters,San Diego,USA,Yes,Yes,No
+60,Mitchell.Murray@example.com,939-709-6815,Dove,YES,939-709-6815,902,Mitchell Murray,San Francisco,USA,Yes,No,Yes
+61,Adnan.Allen@example.com,561-365-7378,Pepsi,YES,Adnan.Allen@example.com,138,Adnan Allen,Chicago,USA,Yes,Yes,No
+62,Montgomery.Davila@example.com,267-999-7224,Kraft Cheese,NO,267-999-7224,748,Montgomery Davila,New York,USA,Yes,Yes,No
+63,Keith.Donovan@example.com,549-515-6738,Oreo,YES,Keith.Donovan@example.com,10,Keith Donovan,Chicago,USA,No,Yes,Yes
+64,Rajan.Dickson@example.com,372-775-6929,Pepsi,YES,372-775-6929,772,Rajan Dickson,San Diego,USA,Yes,No,No
+65,William.Franco@example.com,196-468-3312,Gatorade,NO,196-468-3312,918,William Franco,Toronto,Canada,Yes,No,Yes
+66,Bethan.Franco@example.com,317-895-5803,Pepsi,YES,317-895-5803,248,Bethan Franco,Toronto,Canada,Yes,No,No
+67,Saad.Ali@example.com,185-189-3978,Kraft Cheese,YES,Saad.Ali@example.com,812,Saad Ali,San Francisco,USA,No,No,Yes
+68,Kabir.Stewart@example.com,891-887-3513,Oreo,YES,Kabir.Stewart@example.com,202,Kabir Stewart,San Francisco,USA,Yes,Yes,No
+69,Daniela.James@example.com,716-145-3987,Gatorade,YES,716-145-3987,883,Daniela James,San Francisco,USA,No,No,Yes
+70,Brooklyn.Fowler@example.com,933-501-9509,Pepsi,YES,933-501-9509,631,Brooklyn Fowler,San Francisco,USA,Yes,Yes,Yes
+71,Carter.Coleman@example.com,530-826-1153,Coca-Cola,YES,530-826-1153,237,Carter Coleman,San Francisco,USA,No,Yes,Yes
+72,Tristan.Valdez@example.com,109-614-1639,Dove,YES,109-614-1639,538,Tristan Valdez,Los Angeles,USA,Yes,No,Yes
+73,Mateo.Francis@example.com,508-390-8347,Dove,YES,,878,Mateo Francis,Los Angeles,USA,No,No,Yes
+74,Mike.Hurst@example.com,488-247-6930,Dove,YES,,429,Mike Hurst,Montreal,Canada,No,Yes,Yes
+75,Kaine.Blankenship@example.com,294-274-7917,RedBull,YES,,933,Kaine Blankenship,San Diego,USA,Yes,No,Yes
+76,Dulcie.Melendez@example.com,659-843-5422,RedBull,YES,659-843-5422,261,Dulcie Melendez,Barcelona,Spain,Yes,Yes,No
+77,Brooklyn.Gamble@example.com,187-138-7951,Pepsi,YES,187-138-7951,291,Brooklyn Gamble,Chicago,USA,No,Yes,Yes
+78,Craig.Mcknight@example.com,634-813-9351,Oreo,YES,,564,Craig Mcknight,Chicago,USA,Yes,Yes,No
+79,Juliet.Gordon@example.com,647-601-9488,Kraft Cheese,NO,647-601-9488,421,Juliet Gordon,San Diego,USA,Yes,No,No
+80,Otis.Pittman@example.com,563-494-9026,Coca-Cola,YES,Otis.Pittman@example.com,328,Otis Pittman,San Diego,USA,Yes,Yes,Yes
+81,Angela.Mcmillan@example.com,868-463-1850,Netflix,NO,868-463-1850,78,Angela Mcmillan,London,United Kingdom,Yes,No,No
+82,Zoya.Giles@example.com,301-750-7631,Gatorade,NO,Zoya.Giles@example.com,127,Zoya Giles,Toronto,Canada,Yes,No,Yes
+83,Tomos.Velez@example.com,233-661-3978,RedBull,YES,,656,Tomos Velez,Los Angeles,USA,Yes,Yes,No
+84,Felicity.Tran@example.com,530-539-9474,Netflix,YES,530-539-9474,258,Felicity Tran,San Diego,USA,Yes,No,Yes
+85,Patrick.Morse@example.com,220-102-3684,Kit-Kat,YES,,171,Patrick Morse,New York,USA,Yes,No,Yes
+86,Jim.Moses@example.com,560-446-1279,Pepsi,YES,,503,Jim Moses,London,United Kingdom,No,No,Yes
+87,Kelvin.Hendricks@example.com,767-726-4455,Coca-Cola,NO,767-726-4455,677,Kelvin Hendricks,San Diego,USA,Yes,No,No
+88,Alisha.Hoover@example.com,500-251-7080,Kraft Cheese,NO,Alisha.Hoover@example.com,938,Alisha Hoover,San Diego,USA,Yes,No,No
+89,Luna.Fowler@example.com,137-365-6816,Dove,YES,Luna.Fowler@example.com,958,Luna Fowler,Los Angeles,USA,Yes,Yes,Yes
+90,Alina.Walls@example.com,507-883-4629,Oreo,NO,507-883-4629,102,Alina Walls,Chicago,USA,Yes,No,No
+91,Alan.Burton@example.com,795-682-8733,Kraft Cheese,YES,Alan.Burton@example.com,436,Alan Burton,San Francisco,USA,Yes,No,No
+92,Saif.Green@example.com,978-659-7286,Dove,YES,Saif.Green@example.com,68,Saif Green,Paris,France,No,No,Yes
+93,Ammar.Floyd@example.com,960-107-6796,Dove,YES,960-107-6796,555,Ammar Floyd,New York,USA,No,Yes,Yes
+94,Linda.Combs@example.com,742-395-8995,Netflix,NO,Linda.Combs@example.com,35,Linda Combs,Los Angeles,USA,Yes,Yes,Yes
+95,Bruno.Noble@example.com,639-790-8394,Netflix,NO,639-790-8394,50,Bruno Noble,San Diego,USA,No,No,Yes
+96,Kitty.Carroll@example.com,305-617-1384,Coca-Cola,NO,,511,Kitty Carroll,San Diego,USA,No,No,Yes
+97,Calvin.Tucker@example.com,338-784-4359,Dove,NO,Calvin.Tucker@example.com,711,Calvin Tucker,San Diego,USA,No,No,Yes
+98,Myrtle.Lewis@example.com,727-289-2785,Gatorade,NO,Myrtle.Lewis@example.com,398,Myrtle Lewis,London,United Kingdom,Yes,Yes,Yes
+99,Jayden.Meyers@example.com,233-480-8798,Kraft Cheese,YES,233-480-8798,359,Jayden Meyers,San Diego,USA,Yes,No,No
+100,David.Bridges@example.com,946-447-2454,RedBull,NO,946-447-2454,184,David Bridges,New York,USA,No,No,Yes
+101,Kacie.Lester@example.com,673-651-6332,Gatorade,YES,,980,Kacie Lester,Toronto,Canada,Yes,No,No
+102,Tia.Ali@example.com,507-663-5326,Dove,NO,507-663-5326,747,Tia Ali,San Francisco,USA,Yes,No,No
+103,Anais.Ball@example.com,802-416-6545,Dove,YES,802-416-6545,753,Anais Ball,San Diego,USA,No,Yes,Yes
+104,Ann.John@example.com,814-362-6094,RedBull,YES,,926,Ann John,San Francisco,USA,No,Yes,Yes
+105,Tomas.Griffith@example.com,492-337-4468,Netflix,YES,Tomas.Griffith@example.com,42,Tomas Griffith,London,United Kingdom,No,No,Yes
+106,Miguel.Guerrero@example.com,542-618-4471,Kit-Kat,NO,Miguel.Guerrero@example.com,443,Miguel Guerrero,San Francisco,USA,Yes,Yes,Yes
+107,Kendra.Francis@example.com,680-603-3144,Oreo,YES,680-603-3144,924,Kendra Francis,San Francisco,USA,Yes,No,No
+108,Felicity.Tran@example.com,530-539-9474,Gatorade,YES,Felicity.Tran@example.com,258,Felicity Tran,San Diego,USA,Yes,No,Yes
+109,Zayn.Webb@example.com,561-761-7547,Gatorade,NO,,556,Zayn Webb,New York,USA,Yes,Yes,No
+110,Sarah.Mooney@example.com,507-446-1333,Kit-Kat,YES,Sarah.Mooney@example.com,250,Sarah Mooney,Chicago,USA,Yes,Yes,Yes
+111,Steven.Reid@example.com,490-977-4025,Oreo,YES,Steven.Reid@example.com,296,Steven Reid,San Francisco,USA,Yes,Yes,No
+112,Marnie.Mayo@example.com,725-331-2757,Oreo,YES,725-331-2757,976,Marnie Mayo,San Diego,USA,Yes,No,No
+113,Elif.Khan@example.com,686-123-8571,Coca-Cola,YES,Elif.Khan@example.com,93,Elif Khan,New York,USA,Yes,Yes,No
+114,Tiago.Dunn@example.com,728-796-4352,Colgate,YES,,197,Tiago Dunn,San Diego,USA,Yes,No,Yes
+115,Khadija.Dunlap@example.com,752-472-1641,Gatorade,YES,752-472-1641,489,Khadija Dunlap,San Francisco,USA,Yes,Yes,No
+116,Lily.Chan@example.com,390-911-6534,Kit-Kat,YES,390-911-6534,259,Lily Chan,San Francisco,USA,Yes,No,Yes
+117,Bibi.Roberts@example.com,631-796-8801,Kraft Cheese,YES,631-796-8801,607,Bibi Roberts,New York,USA,Yes,No,No
+118,Orlando.Pitts@example.com,427-711-9658,RedBull,YES,427-711-9658,58,Orlando Pitts,Los Angeles,USA,No,No,Yes
+119,Ismaeel.Schmidt@example.com,110-478-3409,Dove,YES,110-478-3409,829,Ismaeel Schmidt,Los Angeles,USA,No,No,Yes
+120,Bronte.Riley@example.com,786-291-8203,Pepsi,YES,Bronte.Riley@example.com,274,Bronte Riley,Toronto,Canada,No,No,Yes
+121,Bradley.Butler@example.com,937-172-2269,Kraft Cheese,NO,Bradley.Butler@example.com,31,Bradley Butler,Montreal,Canada,No,No,Yes
+122,Brooklyn.Fowler@example.com,933-501-9509,Oreo,YES,933-501-9509,631,Brooklyn Fowler,San Francisco,USA,Yes,Yes,Yes
+123,Mariam.Campos@example.com,102-916-1394,Oreo,YES,102-916-1394,311,Mariam Campos,San Diego,USA,No,No,Yes
+124,Darcey.Robles@example.com,790-759-5249,Colgate,YES,790-759-5249,260,Darcey Robles,London,United Kingdom,No,No,Yes
+125,Alannah.Perkins@example.com,705-521-6039,RedBull,YES,Alannah.Perkins@example.com,929,Alannah Perkins,Chicago,USA,Yes,No,Yes
+126,Everett.Fitzpatrick@example.com,520-305-7264,Oreo,YES,520-305-7264,89,Everett Fitzpatrick,New York,USA,No,No,Yes
+127,Ted.Wiggins@example.com,153-176-3641,Kit-Kat,YES,153-176-3641,936,Ted Wiggins,San Diego,USA,Yes,No,No
+128,Nelson.Huff@example.com,169-619-4582,Coca-Cola,YES,,270,Nelson Huff,New York,USA,Yes,Yes,Yes
+129,Aoife.Davidson@example.com,628-333-9139,RedBull,YES,,791,Aoife Davidson,London,United Kingdom,Yes,No,No
+130,Liana.Baldwin@example.com,736-366-9050,Kraft Cheese,YES,736-366-9050,888,Liana Baldwin,San Diego,USA,Yes,No,No
+131,Nancy.Blair@example.com,434-174-7916,Gatorade,NO,,842,Nancy Blair,Toronto,Canada,No,Yes,Yes
+132,Saoirse.Keller@example.com,699-966-4749,Gatorade,YES,,69,Saoirse Keller,San Francisco,USA,Yes,Yes,Yes
+133,Traci.Banks@example.com,313-374-6903,Kit-Kat,NO,,98,Traci Banks,San Francisco,USA,Yes,No,Yes
+134,Tara.Brewer@example.com,114-507-5478,Coca-Cola,YES,Tara.Brewer@example.com,526,Tara Brewer,New York,USA,No,No,Yes
+135,Miriam.Pacheco@example.com,401-464-5796,Kraft Cheese,YES,,255,Miriam Pacheco,San Diego,USA,Yes,Yes,No
+136,Mateo.Francis@example.com,508-390-8347,Gatorade,YES,Mateo.Francis@example.com,878,Mateo Francis,Los Angeles,USA,No,No,Yes
+137,Isra.Burgess@example.com,142-470-3907,Oreo,YES,Isra.Burgess@example.com,947,Isra Burgess,San Diego,USA,Yes,Yes,No
+138,Gareth.Sanford@example.com,161-842-7749,Kit-Kat,NO,,805,Gareth Sanford,Chicago,USA,Yes,No,No
+139,Sandra.Bowman@example.com,190-234-9749,Dove,YES,Sandra.Bowman@example.com,495,Sandra Bowman,Los Angeles,USA,Yes,Yes,Yes
+140,Anya.Bray@example.com,396-900-5179,Oreo,NO,Anya.Bray@example.com,292,Anya Bray,Toronto,Canada,No,No,Yes
+141,Kaya.Jacobson@example.com,870-909-4612,Dove,YES,Kaya.Jacobson@example.com,510,Kaya Jacobson,San Francisco,USA,Yes,No,No
+142,Kara.Shelton@example.com,837-651-6819,Netflix,NO,837-651-6819,785,Kara Shelton,Paris,France,Yes,Yes,Yes
+143,Arjun.Dejesus@example.com,693-790-8692,Dove,NO,,698,Arjun Dejesus,Chicago,USA,No,No,Yes
+144,Bridget.Oneill@example.com,349-116-7728,Coca-Cola,NO,349-116-7728,507,Bridget Oneill,San Francisco,USA,Yes,No,No
+145,Prince.Sharp@example.com,886-278-8764,Gatorade,NO,Prince.Sharp@example.com,550,Prince Sharp,Montreal,Canada,No,Yes,Yes
+146,Rhodri.Haley@example.com,574-869-4715,Gatorade,NO,Rhodri.Haley@example.com,730,Rhodri Haley,London,United Kingdom,No,No,Yes
+147,Danny.Knapp@example.com,665-657-4948,Coca-Cola,NO,,300,Danny Knapp,Los Angeles,USA,Yes,Yes,Yes
+148,Emre.Everett@example.com,986-281-7506,Kit-Kat,NO,Emre.Everett@example.com,524,Emre Everett,San Francisco,USA,No,Yes,Yes
+149,Fletcher.Moreno@example.com,228-202-6360,Netflix,NO,228-202-6360,362,Fletcher Moreno,San Francisco,USA,Yes,No,No
+150,Trinity.Mora@example.com,406-645-2610,Kit-Kat,NO,406-645-2610,407,Trinity Mora,Toronto,Canada,Yes,No,No
+151,Brenda.Ingram@example.com,919-358-6885,Colgate,NO,919-358-6885,290,Brenda Ingram,Montreal,Canada,Yes,Yes,Yes
+152,Phoebe.Rodriguez@example.com,516-779-4464,Gatorade,NO,516-779-4464,217,Phoebe Rodriguez,New York,USA,Yes,Yes,No
+153,Katrina.Foster@example.com,497-544-5065,Kit-Kat,NO,,336,Katrina Foster,London,United Kingdom,Yes,No,Yes
+154,Owen.Michael@example.com,178-910-8863,Coca-Cola,NO,Owen.Michael@example.com,383,Owen Michael,Toronto,Canada,No,No,Yes
+155,Larissa.Perez@example.com,742-168-6071,Colgate,NO,,613,Larissa Perez,London,United Kingdom,Yes,Yes,No
+156,Polly.Reyes@example.com,296-740-3450,Gatorade,NO,,107,Polly Reyes,San Diego,USA,No,No,Yes
+157,Annalise.Stephens@example.com,853-224-1381,Dove,NO,853-224-1381,591,Annalise Stephens,Toronto,Canada,No,Yes,Yes
+158,Marissa.Hayes@example.com,365-359-3043,Oreo,NO,,822,Marissa Hayes,San Francisco,USA,Yes,Yes,Yes
+159,Sahil.Lyons@example.com,494-702-9881,Oreo,NO,494-702-9881,339,Sahil Lyons,Montreal,Canada,Yes,Yes,No
+160,Cory.Case@example.com,406-161-3681,Colgate,NO,Cory.Case@example.com,905,Cory Case,London,United Kingdom,Yes,No,No
+161,Brooke.Barron@example.com,715-588-5341,Colgate,NO,,508,Brooke Barron,Chicago,USA,No,No,Yes
+162,Nicola.Davenport@example.com,335-679-5225,Netflix,NO,Nicola.Davenport@example.com,983,Nicola Davenport,Toronto,Canada,No,Yes,Yes
+163,Yash.Mcleod@example.com,270-525-3291,Gatorade,YES,Yash.Mcleod@example.com,723,Yash Mcleod,London,United Kingdom,Yes,No,No
+164,Clifford.Mcgee@example.com,715-116-6302,Coca-Cola,NO,715-116-6302,21,Clifford Mcgee,San Francisco,USA,Yes,No,Yes
+165,Hafsah.Booker@example.com,731-730-2543,Dove,NO,731-730-2543,136,Hafsah Booker,New York,USA,No,Yes,Yes
+166,Amir.Clark@example.com,924-287-4068,Kraft Cheese,NO,,91,Amir Clark,London,United Kingdom,Yes,Yes,Yes
+167,Herman.Knowles@example.com,130-936-8674,Colgate,NO,130-936-8674,164,Herman Knowles,Los Angeles,USA,No,Yes,Yes
+168,Tony.Shepard@example.com,416-772-8288,Oreo,NO,Tony.Shepard@example.com,218,Tony Shepard,Barcelona,Spain,No,No,Yes
+169,Lawson.Levine@example.com,785-936-5286,Gatorade,NO,,532,Lawson Levine,San Francisco,USA,Yes,Yes,Yes
+170,Emre.Everett@example.com,986-281-7506,Dove,NO,986-281-7506,524,Emre Everett,San Francisco,USA,No,Yes,Yes
+171,Casey.Finley@example.com,306-893-4689,RedBull,NO,,586,Casey Finley,London,United Kingdom,Yes,Yes,Yes
+172,Kate.Cline@example.com,927-741-2027,Kit-Kat,NO,927-741-2027,229,Kate Cline,Toronto,Canada,Yes,Yes,No
+173,Lucas.Mcdowell@example.com,841-580-6320,Dove,NO,841-580-6320,889,Lucas Mcdowell,Chicago,USA,Yes,Yes,No
+174,Anita.Skinner@example.com,885-134-1740,RedBull,NO,Anita.Skinner@example.com,977,Anita Skinner,Barcelona,Spain,Yes,No,Yes
+175,Sharon.Rojas@example.com,901-513-9962,Colgate,NO,Sharon.Rojas@example.com,354,Sharon Rojas,New York,USA,No,No,Yes
+176,Laurie.Melendez@example.com,488-382-1416,Oreo,NO,Laurie.Melendez@example.com,114,Laurie Melendez,Toronto,Canada,No,Yes,Yes
+177,Isobella.Gilbert@example.com,717-961-9368,RedBull,NO,Isobella.Gilbert@example.com,962,Isobella Gilbert,Barcelona,Spain,Yes,Yes,No
+178,Sandra.Bowman@example.com,190-234-9749,Kit-Kat,NO,190-234-9749,495,Sandra Bowman,Los Angeles,USA,Yes,Yes,Yes
+179,Rishi.Barron@example.com,331-128-4346,Pepsi,NO,,608,Rishi Barron,Montreal,Canada,Yes,Yes,Yes
+180,Polly.Reyes@example.com,296-740-3450,Kit-Kat,NO,,107,Polly Reyes,San Diego,USA,No,No,Yes
+181,Lucia.Cisneros@example.com,470-574-7167,Gatorade,NO,470-574-7167,665,Lucia Cisneros,San Francisco,USA,Yes,Yes,Yes
+182,Luqman.Carrillo@example.com,124-533-2523,Coca-Cola,YES,,182,Luqman Carrillo,New York,USA,Yes,No,No
+183,Katrina.Foster@example.com,497-544-5065,Dove,YES,Katrina.Foster@example.com,336,Katrina Foster,London,United Kingdom,Yes,No,Yes
+184,Cecilia.Edwards@example.com,941-963-8256,Pepsi,NO,941-963-8256,559,Cecilia Edwards,London,United Kingdom,Yes,Yes,Yes
+185,Oliver.Garner@example.com,937-976-2511,Dove,NO,,715,Oliver Garner,Paris,France,No,Yes,Yes
+186,Mark.Friedman@example.com,111-862-3502,Colgate,NO,Mark.Friedman@example.com,207,Mark Friedman,San Diego,USA,Yes,Yes,No
+187,Gabriela.Norton@example.com,138-968-6467,Dove,NO,,679,Gabriela Norton,Chicago,USA,Yes,No,No
+188,Alana.Koch@example.com,576-828-7913,Coca-Cola,NO,,898,Alana Koch,Barcelona,Spain,No,Yes,Yes
+189,Tiana.Decker@example.com,255-136-3687,RedBull,NO,255-136-3687,784,Tiana Decker,London,United Kingdom,No,Yes,Yes
+190,Libbie.Swanson@example.com,176-108-4411,Netflix,NO,Libbie.Swanson@example.com,306,Libbie Swanson,Chicago,USA,No,No,Yes
+191,Eesa.Buchanan@example.com,533-397-5445,Kraft Cheese,NO,Eesa.Buchanan@example.com,200,Eesa Buchanan,London,United Kingdom,Yes,No,Yes
+192,Livia.Howe@example.com,868-828-4315,Gatorade,NO,Livia.Howe@example.com,34,Livia Howe,Toronto,Canada,No,No,Yes
+193,Harvey.Guerrero@example.com,597-677-6862,Pepsi,YES,597-677-6862,14,Harvey Guerrero,Chicago,USA,No,No,Yes
+194,Junior.Schwartz@example.com,543-252-9069,Coca-Cola,NO,543-252-9069,462,Junior Schwartz,San Francisco,USA,No,Yes,Yes
+195,Maximilian.Whitney@example.com,804-245-1465,Pepsi,NO,Maximilian.Whitney@example.com,284,Maximilian Whitney,San Francisco,USA,Yes,Yes,No
+196,Magnus.Mcneil@example.com,125-993-7660,Dove,NO,Magnus.Mcneil@example.com,569,Magnus Mcneil,San Francisco,USA,No,Yes,Yes
+197,Frazer.Anthony@example.com,139-396-1336,Oreo,NO,Frazer.Anthony@example.com,27,Frazer Anthony,New York,USA,No,Yes,Yes
+198,Macie.Payne@example.com,782-737-6408,Kit-Kat,NO,,170,Macie Payne,New York,USA,Yes,No,No
+199,Martin.Perry@example.com,586-420-6418,Gatorade,NO,,904,Martin Perry,Paris,France,Yes,No,Yes
+200,Raheem.Ellis@example.com,491-961-7709,Kraft Cheese,NO,Raheem.Ellis@example.com,684,Raheem Ellis,Chicago,USA,No,Yes,Yes

@@ -1,0 +1,539 @@
+sender_id,recipient_id,amount,date,full_recipient_name,telephone,email,city,country,promotion_id,promotion,responded,android,desktop,iphone
+184,1,$42.48,2024-01-05,Jamie Bright,533-849-3913,Jamie.Bright@example.com,Montreal,Canada,,,,Yes,No,No
+609,5,$137.71,2024-01-19,Beatrix Everett,194-640-2758,Beatrix.Everett@example.com,Paris,France,,,,Yes,No,No
+982,9,$28.56,2023-10-26,Asa Vazquez,504-421-4485,Asa.Vazquez@example.com,Toronto,Canada,,,,Yes,No,No
+871,12,$49.84,2023-06-19,Hussain Santos,379-352-6285,Hussain.Santos@example.com,San Diego,USA,,,,No,Yes,Yes
+952,20,$73.27,2024-03-10,Donald Stone,730-260-4630,Donald.Stone@example.com,London,United Kingdom,,,,Yes,Yes,No
+473,31,$9.97,2023-12-08,Bradley Butler,937-172-2269,Bradley.Butler@example.com,Montreal,Canada,18,RedBull,YES,No,No,Yes
+473,31,$9.97,2023-12-08,Bradley Butler,937-172-2269,Bradley.Butler@example.com,Montreal,Canada,121,Kraft Cheese,NO,No,No,Yes
+323,37,$22.32,2023-08-03,Lili Schroeder,640-348-2128,Lili.Schroeder@example.com,Toronto,Canada,,,,Yes,No,Yes
+537,37,$1.52,2023-01-05,Lili Schroeder,640-348-2128,Lili.Schroeder@example.com,Toronto,Canada,,,,Yes,No,Yes
+173,38,$106.30,2024-02-04,Jeremiah Martin,277-350-5557,Jeremiah.Martin@example.com,London,United Kingdom,,,,Yes,No,No
+42,41,$135.10,2024-03-09,Cody Riley,872-906-9681,Cody.Riley@example.com,London,United Kingdom,,,,Yes,Yes,Yes
+1,52,$25.02,2023-06-05,Amaan Rangel,837-435-2302,Amaan.Rangel@example.com,Montreal,Canada,,,,Yes,No,Yes
+671,54,$62.11,2024-03-31,Bethany Santana,924-146-4189,Bethany.Santana@example.com,New York,USA,,,,No,No,Yes
+897,54,$80.48,2023-10-28,Bethany Santana,924-146-4189,Bethany.Santana@example.com,New York,USA,,,,No,No,Yes
+430,55,$36.62,2024-01-01,Ernest Martinez,448-597-4211,Ernest.Martinez@example.com,San Diego,USA,,,,Yes,Yes,No
+746,55,$65.61,2023-06-30,Ernest Martinez,448-597-4211,Ernest.Martinez@example.com,San Diego,USA,,,,Yes,Yes,No
+116,61,$62.87,2023-05-09,Honor Jacobson,624-535-4606,Honor.Jacobson@example.com,San Francisco,USA,,,,Yes,Yes,No
+467,64,$27.35,2023-05-29,Jason Snyder,202-632-2346,Jason.Snyder@example.com,San Francisco,USA,,,,Yes,No,No
+322,64,$11.62,2022-02-23,Jason Snyder,202-632-2346,Jason.Snyder@example.com,San Francisco,USA,,,,Yes,No,No
+986,66,$5.49,2023-05-12,Aisha Webb,447-728-9592,Aisha.Webb@example.com,San Francisco,USA,,,,Yes,Yes,No
+1000,69,$21.20,2023-02-23,Saoirse Keller,699-966-4749,Saoirse.Keller@example.com,San Francisco,USA,132,Gatorade,YES,Yes,Yes,Yes
+94,76,$15.65,2022-05-09,Taha Casey,581-100-2001,Taha.Casey@example.com,Los Angeles,USA,,,,Yes,Yes,No
+393,78,$56.54,2024-02-18,Angela Mcmillan,868-463-1850,Angela.Mcmillan@example.com,London,United Kingdom,81,Netflix,NO,Yes,No,No
+979,80,$81.89,2022-11-06,Cheryl Owens,812-775-9881,Cheryl.Owens@example.com,San Francisco,USA,,,,Yes,No,Yes
+570,84,$1.00,2022-02-09,Safia Ayers,512-649-7865,Safia.Ayers@example.com,San Francisco,USA,,,,No,No,Yes
+54,88,$1.00,2024-03-24,Humza Velez,931-502-4660,Humza.Velez@example.com,New York,USA,,,,No,Yes,Yes
+870,95,$16.90,2023-08-21,Miles Fisher,702-511-6770,Miles.Fisher@example.com,San Diego,USA,,,,Yes,Yes,Yes
+526,96,$36.56,2024-03-01,Nadia Neal,255-874-4270,Nadia.Neal@example.com,New York,USA,,,,Yes,Yes,Yes
+358,96,$30.66,2024-04-06,Nadia Neal,255-874-4270,Nadia.Neal@example.com,New York,USA,,,,Yes,Yes,Yes
+667,98,$84.55,2023-07-28,Traci Banks,313-374-6903,Traci.Banks@example.com,San Francisco,USA,133,Kit-Kat,NO,Yes,No,Yes
+899,98,$78.96,2022-02-08,Traci Banks,313-374-6903,Traci.Banks@example.com,San Francisco,USA,133,Kit-Kat,NO,Yes,No,Yes
+367,102,$83.56,2022-09-18,Alina Walls,507-883-4629,Alina.Walls@example.com,Chicago,USA,90,Oreo,NO,Yes,No,No
+992,102,$78.86,2022-12-06,Alina Walls,507-883-4629,Alina.Walls@example.com,Chicago,USA,90,Oreo,NO,Yes,No,No
+111,104,$7.40,2022-02-20,Chelsea Wyatt,750-801-9657,Chelsea.Wyatt@example.com,San Diego,USA,,,,No,Yes,Yes
+570,105,$33.74,2022-03-07,Franklin Conway,768-545-4465,Franklin.Conway@example.com,San Diego,USA,,,,Yes,Yes,No
+263,105,$10.03,2023-11-24,Franklin Conway,768-545-4465,Franklin.Conway@example.com,San Diego,USA,,,,Yes,Yes,No
+754,108,$2.89,2023-12-04,Mohsin Tucker,174-389-8757,Mohsin.Tucker@example.com,Toronto,Canada,,,,No,Yes,No
+966,108,$72.63,2024-03-05,Mohsin Tucker,174-389-8757,Mohsin.Tucker@example.com,Toronto,Canada,,,,No,Yes,No
+620,108,$23.77,2023-01-18,Mohsin Tucker,174-389-8757,Mohsin.Tucker@example.com,Toronto,Canada,,,,No,Yes,No
+172,109,$42.44,2023-05-19,Huw Valentine,441-847-1955,Huw.Valentine@example.com,Chicago,USA,3,Oreo,YES,No,Yes,Yes
+326,109,$60.78,2023-09-08,Huw Valentine,441-847-1955,Huw.Valentine@example.com,Chicago,USA,3,Oreo,YES,No,Yes,Yes
+374,110,$3.38,2023-03-07,Pearl Perez,947-926-6369,Pearl.Perez@example.com,San Francisco,USA,,,,No,No,Yes
+719,113,$67.37,2023-08-14,Kaan Miranda,940-569-5175,Kaan.Miranda@example.com,San Francisco,USA,,,,Yes,No,No
+105,118,$49.49,2023-10-22,Sean Bolton,222-241-5406,Sean.Bolton@example.com,Los Angeles,USA,,,,Yes,No,Yes
+960,118,$53.00,2023-02-03,Sean Bolton,222-241-5406,Sean.Bolton@example.com,Los Angeles,USA,,,,Yes,No,Yes
+309,119,$140.03,2024-01-02,Arron Peck,226-392-7970,Arron.Peck@example.com,Paris,France,,,,Yes,No,Yes
+712,123,$8.49,2023-04-09,Finnian Fisher,382-879-9946,Finnian.Fisher@example.com,Toronto,Canada,,,,Yes,No,Yes
+100,129,$99.22,2024-03-08,Alejandro Duncan,487-150-9471,Alejandro.Duncan@example.com,London,United Kingdom,,,,No,Yes,No
+818,130,$4.42,2024-02-20,Zohaib Hartman,928-400-6426,Zohaib.Hartman@example.com,Montreal,Canada,,,,No,Yes,No
+243,130,$15.32,2024-03-05,Zohaib Hartman,928-400-6426,Zohaib.Hartman@example.com,Montreal,Canada,,,,No,Yes,No
+108,130,$24.27,2024-01-02,Zohaib Hartman,928-400-6426,Zohaib.Hartman@example.com,Montreal,Canada,,,,No,Yes,No
+251,132,$11.67,2022-08-01,Tina Powell,372-218-6551,Tina.Powell@example.com,New York,USA,,,,Yes,Yes,No
+248,135,$130.62,2023-09-18,Bertie Ward,971-922-8663,Bertie.Ward@example.com,Montreal,Canada,,,,Yes,Yes,No
+346,135,$1.00,2023-09-29,Bertie Ward,971-922-8663,Bertie.Ward@example.com,Montreal,Canada,,,,Yes,Yes,No
+82,137,$15.36,2023-02-17,India Simmons,605-920-3435,India.Simmons@example.com,San Diego,USA,,,,Yes,No,Yes
+51,140,$1.00,2023-01-04,Gary Hutchinson,245-506-5389,Gary.Hutchinson@example.com,San Francisco,USA,,,,Yes,No,No
+285,147,$36.98,2023-10-13,Eleanor Mcintosh,153-538-3431,Eleanor.Mcintosh@example.com,Toronto,Canada,,,,Yes,No,No
+325,149,$56.12,2023-05-15,Abdirahman Mullen,669-442-8257,Abdirahman.Mullen@example.com,Toronto,Canada,,,,Yes,Yes,Yes
+259,157,$44.69,2023-03-01,Aimee Duffy,856-144-7655,Aimee.Duffy@example.com,San Diego,USA,,,,Yes,No,Yes
+671,160,$35.34,2022-06-26,Alessia Watts,619-580-5165,Alessia.Watts@example.com,New York,USA,,,,Yes,No,No
+890,161,$17.81,2024-04-07,Eliza Gordon,805-946-7433,Eliza.Gordon@example.com,Los Angeles,USA,,,,Yes,No,No
+924,162,$98.00,2024-04-30,Martina Boyle,145-824-4775,Martina.Boyle@example.com,Los Angeles,USA,,,,No,Yes,No
+965,162,$47.07,2023-05-16,Martina Boyle,145-824-4775,Martina.Boyle@example.com,Los Angeles,USA,,,,No,Yes,No
+47,163,$14.22,2022-11-14,Talha Austin,279-345-3532,Talha.Austin@example.com,New York,USA,,,,No,Yes,Yes
+185,163,$1.00,2023-10-29,Talha Austin,279-345-3532,Talha.Austin@example.com,New York,USA,,,,No,Yes,Yes
+553,165,$64.96,2023-10-23,Amira Berg,627-954-8991,Amira.Berg@example.com,Chicago,USA,,,,Yes,No,Yes
+112,169,$71.55,2023-03-17,Katy Harrington,645-829-7495,Katy.Harrington@example.com,San Francisco,USA,,,,No,No,Yes
+11,171,$25.66,2022-06-10,Patrick Morse,220-102-3684,Patrick.Morse@example.com,New York,USA,85,Kit-Kat,YES,Yes,No,Yes
+826,171,$38.38,2024-02-17,Patrick Morse,220-102-3684,Patrick.Morse@example.com,New York,USA,85,Kit-Kat,YES,Yes,No,Yes
+412,173,$39.98,2024-01-05,Enya Hernandez,406-397-1498,Enya.Hernandez@example.com,Barcelona,Spain,,,,No,No,Yes
+503,173,$17.54,2024-04-11,Enya Hernandez,406-397-1498,Enya.Hernandez@example.com,Barcelona,Spain,,,,No,No,Yes
+144,177,$67.75,2022-01-26,Hassan Kemp,131-471-2639,Hassan.Kemp@example.com,San Diego,USA,,,,No,Yes,No
+283,184,$42.04,2022-10-20,David Bridges,946-447-2454,David.Bridges@example.com,New York,USA,100,RedBull,NO,No,No,Yes
+360,184,$25.40,2024-03-26,David Bridges,946-447-2454,David.Bridges@example.com,New York,USA,100,RedBull,NO,No,No,Yes
+710,184,$23.59,2023-08-15,David Bridges,946-447-2454,David.Bridges@example.com,New York,USA,100,RedBull,NO,No,No,Yes
+663,187,$35.98,2022-10-14,Andre Long,883-691-2967,Andre.Long@example.com,San Francisco,USA,,,,No,Yes,Yes
+931,187,$13.75,2022-02-20,Andre Long,883-691-2967,Andre.Long@example.com,San Francisco,USA,,,,No,Yes,Yes
+902,190,$66.63,2023-10-05,Charlotte Baxter,757-193-7348,Charlotte.Baxter@example.com,San Francisco,USA,,,,Yes,Yes,No
+85,191,$46.33,2023-12-26,Damon Bullock,130-864-9453,Damon.Bullock@example.com,Chicago,USA,,,,Yes,Yes,No
+250,192,$11.65,2023-11-28,Leonie Sanders,248-366-9279,Leonie.Sanders@example.com,Chicago,USA,,,,Yes,No,Yes
+966,193,$25.04,2023-01-10,Susie Gibbons,194-777-4804,Susie.Gibbons@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+369,204,$29.11,2023-03-01,Philippa Webster,407-892-7705,Philippa.Webster@example.com,Toronto,Canada,,,,Yes,No,No
+810,206,$17.94,2022-07-22,Azaan Roth,130-119-2032,Azaan.Roth@example.com,Los Angeles,USA,17,Netflix,YES,Yes,No,Yes
+10,211,$62.25,2023-09-14,Gerard Francis,958-724-3846,Gerard.Francis@example.com,Chicago,USA,10,Oreo,YES,Yes,Yes,Yes
+49,212,$33.08,2022-06-26,Angela Lynch,227-737-8739,Angela.Lynch@example.com,San Francisco,USA,,,,Yes,No,Yes
+714,214,$13.48,2024-01-09,Eugene Taylor,712-926-3402,Eugene.Taylor@example.com,Toronto,Canada,,,,No,No,Yes
+601,216,$3.43,2023-10-24,Nataniel Nunez,202-158-5194,Nataniel.Nunez@example.com,New York,USA,,,,No,Yes,No
+919,220,$57.52,2024-01-27,Sahar Kim,718-676-2743,Sahar.Kim@example.com,San Francisco,USA,,,,Yes,No,Yes
+430,220,$17.46,2022-05-31,Sahar Kim,718-676-2743,Sahar.Kim@example.com,San Francisco,USA,,,,Yes,No,Yes
+455,224,$96.59,2023-09-05,Lily-Rose Kaufman,271-963-2123,Lily-Rose.Kaufman@example.com,Chicago,USA,,,,Yes,No,No
+981,230,$1.00,2022-12-22,Hana Barr,541-180-4090,Hana.Barr@example.com,San Francisco,USA,,,,Yes,Yes,No
+533,234,$41.18,2022-09-20,Esmee Harmon,271-604-3446,Esmee.Harmon@example.com,New York,USA,,,,Yes,Yes,No
+335,234,$28.18,2023-09-12,Esmee Harmon,271-604-3446,Esmee.Harmon@example.com,New York,USA,,,,Yes,Yes,No
+391,234,$11.55,2024-02-11,Esmee Harmon,271-604-3446,Esmee.Harmon@example.com,New York,USA,,,,Yes,Yes,No
+58,236,$53.23,2023-11-16,Gloria Mason,495-379-8123,Gloria.Mason@example.com,Los Angeles,USA,,,,No,No,Yes
+960,236,$4.95,2022-05-11,Gloria Mason,495-379-8123,Gloria.Mason@example.com,Los Angeles,USA,,,,No,No,Yes
+856,238,$19.07,2022-08-22,Ashleigh Trevino,621-710-6972,Ashleigh.Trevino@example.com,San Francisco,USA,,,,Yes,No,No
+137,238,$38.32,2022-12-30,Ashleigh Trevino,621-710-6972,Ashleigh.Trevino@example.com,San Francisco,USA,,,,Yes,No,No
+956,241,$33.00,2023-03-14,Chris Zimmerman,371-875-4229,Chris.Zimmerman@example.com,San Diego,USA,,,,No,Yes,No
+621,241,$43.63,2024-02-19,Chris Zimmerman,371-875-4229,Chris.Zimmerman@example.com,San Diego,USA,,,,No,Yes,No
+878,242,$54.18,2024-01-02,Hazel Joseph,272-647-4049,Hazel.Joseph@example.com,New York,USA,,,,No,Yes,No
+154,242,$15.28,2023-02-28,Hazel Joseph,272-647-4049,Hazel.Joseph@example.com,New York,USA,,,,No,Yes,No
+93,242,$56.30,2023-04-30,Hazel Joseph,272-647-4049,Hazel.Joseph@example.com,New York,USA,,,,No,Yes,No
+141,245,$28.59,2024-01-11,Elsie Cuevas,186-536-6820,Elsie.Cuevas@example.com,Montreal,Canada,,,,No,No,Yes
+748,247,$76.50,2022-10-03,Douglas Lozano,916-136-3366,Douglas.Lozano@example.com,New York,USA,,,,No,No,Yes
+712,248,$10.43,2023-03-17,Bethan Franco,317-895-5803,Bethan.Franco@example.com,Toronto,Canada,66,Pepsi,YES,Yes,No,No
+578,248,$15.84,2023-12-29,Bethan Franco,317-895-5803,Bethan.Franco@example.com,Toronto,Canada,66,Pepsi,YES,Yes,No,No
+986,249,$12.74,2023-06-30,Clementine Whitaker,193-348-3198,Clementine.Whitaker@example.com,Los Angeles,USA,,,,No,Yes,No
+827,254,$7.83,2022-06-13,Bonnie Woods,104-443-5734,Bonnie.Woods@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+110,258,$1.00,2022-06-05,Felicity Tran,530-539-9474,Felicity.Tran@example.com,San Diego,USA,84,Netflix,YES,Yes,No,Yes
+110,258,$1.00,2022-06-05,Felicity Tran,530-539-9474,Felicity.Tran@example.com,San Diego,USA,108,Gatorade,YES,Yes,No,Yes
+986,258,$6.97,2023-02-06,Felicity Tran,530-539-9474,Felicity.Tran@example.com,San Diego,USA,84,Netflix,YES,Yes,No,Yes
+986,258,$6.97,2023-02-06,Felicity Tran,530-539-9474,Felicity.Tran@example.com,San Diego,USA,108,Gatorade,YES,Yes,No,Yes
+914,260,$85.96,2024-03-09,Darcey Robles,790-759-5249,Darcey.Robles@example.com,London,United Kingdom,124,Colgate,YES,No,No,Yes
+888,261,$33.14,2024-03-23,Dulcie Melendez,659-843-5422,Dulcie.Melendez@example.com,Barcelona,Spain,76,RedBull,YES,Yes,Yes,No
+687,262,$57.67,2023-01-07,Everly Cortez,954-995-1806,Everly.Cortez@example.com,Toronto,Canada,,,,Yes,No,No
+318,263,$6.75,2024-01-17,Tommy Farmer,999-431-4584,Tommy.Farmer@example.com,Toronto,Canada,,,,Yes,No,No
+242,266,$96.50,2022-12-18,Gregory Strong,952-404-1885,Gregory.Strong@example.com,New York,USA,,,,No,Yes,Yes
+421,267,$21.65,2023-01-09,Jake Spencer,445-216-5918,Jake.Spencer@example.com,San Diego,USA,,,,Yes,Yes,Yes
+854,268,$70.32,2023-11-21,Johnny Ford,760-126-9651,Johnny.Ford@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+918,269,$41.46,2023-07-12,Yusuf Salazar,311-351-7403,Yusuf.Salazar@example.com,Toronto,Canada,,,,Yes,No,No
+411,269,$20.84,2023-08-28,Yusuf Salazar,311-351-7403,Yusuf.Salazar@example.com,Toronto,Canada,,,,Yes,No,No
+425,271,$87.05,2024-04-14,Princess Schneider,683-604-6287,Princess.Schneider@example.com,Paris,France,,,,Yes,Yes,No
+629,272,$43.39,2022-07-02,Findlay Velasquez,675-319-8856,Findlay.Velasquez@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+854,273,$42.99,2022-11-25,Georgiana Horton,290-200-9393,Georgiana.Horton@example.com,Los Angeles,USA,,,,Yes,Yes,No
+414,273,$19.97,2022-05-28,Georgiana Horton,290-200-9393,Georgiana.Horton@example.com,Los Angeles,USA,,,,Yes,Yes,No
+957,279,$33.96,2022-05-21,Annabelle Atkinson,494-263-3527,Annabelle.Atkinson@example.com,San Francisco,USA,,,,Yes,No,No
+986,286,$8.34,2023-12-03,Cordelia Marquez,636-910-2488,Cordelia.Marquez@example.com,Los Angeles,USA,,,,No,Yes,Yes
+473,287,$3.78,2023-11-15,Jan Daniels,305-449-8274,Jan.Daniels@example.com,Montreal,Canada,,,,Yes,Yes,No
+473,287,$30.01,2023-06-26,Jan Daniels,305-449-8274,Jan.Daniels@example.com,Montreal,Canada,,,,Yes,Yes,No
+224,291,$7.94,2023-05-27,Brooklyn Gamble,187-138-7951,Brooklyn.Gamble@example.com,Chicago,USA,77,Pepsi,YES,No,Yes,Yes
+731,296,$4.09,2024-01-23,Steven Reid,490-977-4025,Steven.Reid@example.com,San Francisco,USA,6,Pepsi,YES,Yes,Yes,No
+731,296,$4.09,2024-01-23,Steven Reid,490-977-4025,Steven.Reid@example.com,San Francisco,USA,111,Oreo,YES,Yes,Yes,No
+895,311,$68.82,2024-04-10,Mariam Campos,102-916-1394,Mariam.Campos@example.com,San Diego,USA,123,Oreo,YES,No,No,Yes
+662,312,$40.50,2023-11-25,Marissa Rubio,400-815-9011,Marissa.Rubio@example.com,Chicago,USA,,,,No,Yes,Yes
+900,314,$96.19,2023-02-27,Neve Hendrix,965-871-6717,Neve.Hendrix@example.com,Chicago,USA,,,,No,Yes,Yes
+722,314,$39.85,2023-03-05,Neve Hendrix,965-871-6717,Neve.Hendrix@example.com,Chicago,USA,,,,No,Yes,Yes
+739,316,$40.22,2023-01-26,Mathilda Abbott,893-420-4063,Mathilda.Abbott@example.com,New York,USA,,,,No,Yes,No
+262,317,$4.94,2024-01-27,Bessie Cuevas,629-379-6872,Bessie.Cuevas@example.com,Toronto,Canada,,,,Yes,No,Yes
+903,318,$3.92,2023-12-03,Mario Luna,547-624-3479,Mario.Luna@example.com,Toronto,Canada,,,,Yes,Yes,Yes
+996,318,$12.77,2023-07-03,Mario Luna,547-624-3479,Mario.Luna@example.com,Toronto,Canada,,,,Yes,Yes,Yes
+961,319,$16.42,2024-04-25,Tess Short,990-918-2059,Tess.Short@example.com,Los Angeles,USA,,,,Yes,Yes,No
+40,320,$23.94,2023-05-16,Liberty Stephenson,613-740-5020,Liberty.Stephenson@example.com,San Francisco,USA,,,,Yes,No,No
+198,327,$50.30,2023-06-07,Oliver Sanford,628-646-1375,Oliver.Sanford@example.com,Toronto,Canada,,,,Yes,No,Yes
+255,328,$5.42,2022-10-21,Otis Pittman,563-494-9026,Otis.Pittman@example.com,San Diego,USA,80,Coca-Cola,YES,Yes,Yes,Yes
+685,340,$92.90,2023-05-17,Lilly-Rose Richards,264-213-8415,Lilly-Rose.Richards@example.com,New York,USA,,,,Yes,Yes,Yes
+66,342,$45.42,2022-05-22,Alfred Stuart,713-145-1454,Alfred.Stuart@example.com,Los Angeles,USA,,,,No,Yes,No
+984,345,$49.27,2022-12-15,Hannah Zuniga,515-268-3667,Hannah.Zuniga@example.com,Chicago,USA,,,,Yes,Yes,Yes
+769,350,$49.57,2024-02-15,Jed Myers,920-927-4758,Jed.Myers@example.com,San Francisco,USA,,,,No,Yes,No
+78,356,$30.48,2024-04-27,Romeo Martin,834-460-4855,Romeo.Martin@example.com,Toronto,Canada,,,,No,Yes,Yes
+382,356,$7.77,2023-09-25,Romeo Martin,834-460-4855,Romeo.Martin@example.com,Toronto,Canada,,,,No,Yes,Yes
+925,359,$86.00,2024-04-18,Jayden Meyers,233-480-8798,Jayden.Meyers@example.com,San Diego,USA,99,Kraft Cheese,YES,Yes,No,No
+717,361,$31.77,2023-10-06,Joel Baldwin,161-534-8719,Joel.Baldwin@example.com,San Diego,USA,,,,No,Yes,No
+214,365,$18.75,2024-01-01,Martina Moran,641-323-9929,Martina.Moran@example.com,Toronto,Canada,,,,No,Yes,No
+981,366,$12.47,2022-03-19,Maxwell Lee,221-138-8090,Maxwell.Lee@example.com,San Francisco,USA,,,,No,No,Yes
+543,369,$10.87,2023-05-27,Reggie Strong,459-645-8476,Reggie.Strong@example.com,Toronto,Canada,,,,Yes,Yes,Yes
+695,369,$10.85,2023-04-08,Reggie Strong,459-645-8476,Reggie.Strong@example.com,Toronto,Canada,,,,Yes,Yes,Yes
+811,375,$73.10,2023-04-04,Brandon Rangel,417-706-8052,Brandon.Rangel@example.com,New York,USA,,,,Yes,No,Yes
+499,375,$39.65,2024-03-14,Brandon Rangel,417-706-8052,Brandon.Rangel@example.com,New York,USA,,,,Yes,No,Yes
+916,377,$17.61,2022-10-20,Phyllis Gill,821-675-4190,Phyllis.Gill@example.com,Los Angeles,USA,,,,No,No,Yes
+991,380,$51.59,2023-03-25,James Warner,839-312-5829,James.Warner@example.com,Toronto,Canada,,,,No,No,Yes
+147,380,$6.24,2023-01-12,James Warner,839-312-5829,James.Warner@example.com,Toronto,Canada,,,,No,No,Yes
+274,382,$12.26,2023-08-21,Zachery Snow,354-295-2894,Zachery.Snow@example.com,Toronto,Canada,,,,No,No,Yes
+801,387,$31.28,2024-02-13,Jesse Perry,711-621-8470,Jesse.Perry@example.com,New York,USA,,,,No,Yes,Yes
+940,388,$69.61,2022-09-25,Yousef Andrews,532-910-6535,Yousef.Andrews@example.com,Los Angeles,USA,,,,Yes,No,Yes
+358,389,$58.16,2024-04-05,Levi Hoffman,442-352-9243,Levi.Hoffman@example.com,London,United Kingdom,,,,Yes,No,Yes
+103,392,$36.88,2023-10-18,Kyle Joseph,499-600-6164,Kyle.Joseph@example.com,Toronto,Canada,,,,Yes,Yes,No
+807,399,$68.15,2023-01-13,Nathan Pearce,161-192-5834,Nathan.Pearce@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+678,400,$1.35,2022-01-20,Joanna Durham,302-863-6548,Joanna.Durham@example.com,Los Angeles,USA,,,,No,No,Yes
+827,400,$59.13,2023-12-31,Joanna Durham,302-863-6548,Joanna.Durham@example.com,Los Angeles,USA,,,,No,No,Yes
+489,404,$12.18,2023-12-09,Verity Oneal,736-555-3571,Verity.Oneal@example.com,San Francisco,USA,,,,Yes,Yes,No
+411,405,$22.73,2023-03-14,Cecily Blaese,234-446-2115,Cecily.Blaese@example.com,Toronto,Canada,,,,No,Yes,Yes
+986,408,$43.65,2023-04-30,Adnan Moore,132-644-9432,Adnan.Moore@example.com,San Francisco,USA,,,,No,No,Yes
+706,408,$33.74,2023-06-18,Adnan Moore,132-644-9432,Adnan.Moore@example.com,San Francisco,USA,,,,No,No,Yes
+786,408,$19.72,2022-07-24,Adnan Moore,132-644-9432,Adnan.Moore@example.com,San Francisco,USA,,,,No,No,Yes
+881,415,$4.19,2023-01-30,Christopher Pollard,915-743-9764,Christopher.Pollard@example.com,San Diego,USA,20,Gatorade,NO,Yes,Yes,Yes
+856,415,$21.78,2023-09-11,Christopher Pollard,915-743-9764,Christopher.Pollard@example.com,San Diego,USA,20,Gatorade,NO,Yes,Yes,Yes
+73,420,$77.35,2024-02-04,Pablo Benton,918-474-3062,Pablo.Benton@example.com,London,United Kingdom,,,,Yes,No,No
+457,421,$52.87,2022-05-14,Juliet Gordon,647-601-9488,Juliet.Gordon@example.com,San Diego,USA,79,Kraft Cheese,NO,Yes,No,No
+769,423,$45.00,2023-06-19,Haaris Blevins,790-597-2437,Haaris.Blevins@example.com,Chicago,USA,,,,No,No,Yes
+662,423,$5.70,2023-05-28,Haaris Blevins,790-597-2437,Haaris.Blevins@example.com,Chicago,USA,,,,No,No,Yes
+814,425,$28.96,2022-02-22,Ines Davis,238-215-9099,Ines.Davis@example.com,San Francisco,USA,,,,No,Yes,No
+142,427,$111.03,2024-04-14,Lola Vaughan,722-400-6707,Lola.Vaughan@example.com,Paris,France,,,,No,Yes,No
+156,429,$6.29,2023-09-24,Mike Hurst,488-247-6930,Mike.Hurst@example.com,Montreal,Canada,74,Dove,YES,No,Yes,Yes
+846,430,$11.34,2024-01-01,Huw Pearson,505-476-1251,Huw.Pearson@example.com,San Diego,USA,,,,No,No,Yes
+946,433,$20.12,2024-01-30,Angelo Manning,182-351-6749,Angelo.Manning@example.com,Toronto,Canada,,,,Yes,No,No
+878,434,$36.15,2024-03-10,Enzo Hess,359-874-3781,Enzo.Hess@example.com,Los Angeles,USA,,,,Yes,Yes,No
+827,436,$0.84,2024-03-26,Alan Burton,795-682-8733,Alan.Burton@example.com,San Francisco,USA,91,Kraft Cheese,YES,Yes,No,No
+888,436,$1.92,2023-11-17,Alan Burton,795-682-8733,Alan.Burton@example.com,San Francisco,USA,91,Kraft Cheese,YES,Yes,No,No
+752,438,$43.27,2023-12-31,Leslie Harrington,170-517-1270,Leslie.Harrington@example.com,Chicago,USA,,,,Yes,No,Yes
+463,438,$8.80,2024-04-29,Leslie Harrington,170-517-1270,Leslie.Harrington@example.com,Chicago,USA,,,,Yes,No,Yes
+179,438,$81.49,2024-01-14,Leslie Harrington,170-517-1270,Leslie.Harrington@example.com,Chicago,USA,,,,Yes,No,Yes
+749,438,$23.49,2022-09-05,Leslie Harrington,170-517-1270,Leslie.Harrington@example.com,Chicago,USA,,,,Yes,No,Yes
+874,439,$27.29,2023-05-03,Leona Daugherty,815-288-7354,Leona.Daugherty@example.com,Montreal,Canada,,,,Yes,Yes,Yes
+806,439,$7.09,2024-04-17,Leona Daugherty,815-288-7354,Leona.Daugherty@example.com,Montreal,Canada,,,,Yes,Yes,Yes
+817,441,$88.66,2023-11-26,Conrad Hanna,934-954-3387,Conrad.Hanna@example.com,San Diego,USA,,,,No,Yes,Yes
+620,442,$15.61,2023-12-31,Lenny Hardy,618-571-1851,Lenny.Hardy@example.com,Toronto,Canada,,,,No,Yes,Yes
+72,443,$51.51,2023-07-12,Miguel Guerrero,542-618-4471,Miguel.Guerrero@example.com,San Francisco,USA,106,Kit-Kat,NO,Yes,Yes,Yes
+938,452,$20.19,2022-02-22,Iqra Kelly,319-337-5741,Iqra.Kelly@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+422,460,$8.96,2024-02-06,Demi Dennis,429-374-1894,Demi.Dennis@example.com,Los Angeles,USA,,,,No,No,Yes
+781,461,$50.19,2022-05-29,Leila Hawkins,970-992-9362,Leila.Hawkins@example.com,Los Angeles,USA,,,,No,No,Yes
+48,461,$18.51,2022-06-29,Leila Hawkins,970-992-9362,Leila.Hawkins@example.com,Los Angeles,USA,,,,No,No,Yes
+641,466,$12.63,2023-02-20,Charis Cotton,598-771-1224,Charis.Cotton@example.com,Toronto,Canada,,,,No,Yes,No
+65,466,$47.31,2024-02-06,Charis Cotton,598-771-1224,Charis.Cotton@example.com,Toronto,Canada,,,,No,Yes,No
+205,467,$15.70,2023-12-08,Zubair Sheppard,845-425-4523,Zubair.Sheppard@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+882,472,$79.59,2022-05-16,Colby Baxter,584-747-3867,Colby.Baxter@example.com,Los Angeles,USA,,,,Yes,No,No
+431,472,$62.40,2022-05-21,Colby Baxter,584-747-3867,Colby.Baxter@example.com,Los Angeles,USA,,,,Yes,No,No
+401,478,$15.72,2023-06-06,Alejandro Ali,685-467-9906,Alejandro.Ali@example.com,San Francisco,USA,,,,No,Yes,No
+177,480,$34.74,2022-07-11,Abu Miranda,615-102-4849,Abu.Miranda@example.com,Los Angeles,USA,,,,No,Yes,Yes
+251,481,$12.91,2022-10-24,Sophia Randolph,972-667-2372,Sophia.Randolph@example.com,New York,USA,,,,Yes,No,Yes
+712,482,$42.82,2024-03-18,Ahmad Patrick,875-486-1626,Ahmad.Patrick@example.com,Toronto,Canada,,,,Yes,No,Yes
+61,487,$6.81,2022-12-09,Bernard Moran,863-265-3242,Bernard.Moran@example.com,San Francisco,USA,,,,No,No,Yes
+459,489,$36.37,2022-10-17,Khadija Dunlap,752-472-1641,Khadija.Dunlap@example.com,San Francisco,USA,115,Gatorade,YES,Yes,Yes,No
+28,491,$87.13,2022-09-06,Ehsan Anthony,364-687-4749,Ehsan.Anthony@example.com,San Francisco,USA,,,,No,Yes,No
+656,493,$4.70,2023-11-26,Jazmine Harper,956-324-6086,Jazmine.Harper@example.com,Los Angeles,USA,,,,No,Yes,Yes
+370,494,$4.18,2023-10-08,Bryan Caldwell,161-104-1451,Bryan.Caldwell@example.com,San Francisco,USA,,,,No,Yes,No
+835,501,$34.41,2023-07-10,Nannie Carr,175-709-3929,Nannie.Carr@example.com,San Francisco,USA,,,,Yes,Yes,No
+289,503,$27.73,2024-03-02,Jim Moses,560-446-1279,Jim.Moses@example.com,London,United Kingdom,86,Pepsi,YES,No,No,Yes
+211,505,$71.72,2024-04-10,Bessie Conley,128-912-7282,Bessie.Conley@example.com,London,United Kingdom,,,,No,No,Yes
+748,506,$37.89,2023-10-31,Jude Manning,705-992-3397,Jude.Manning@example.com,New York,USA,,,,Yes,Yes,Yes
+984,509,$42.70,2023-04-06,Lukas Howard,846-508-8212,Lukas.Howard@example.com,Chicago,USA,,,,Yes,Yes,No
+875,512,$51.64,2024-03-01,Khadijah Little,258-211-4243,Khadijah.Little@example.com,San Diego,USA,,,,Yes,No,Yes
+961,515,$61.90,2022-08-25,Gerald Carver,658-867-4112,Gerald.Carver@example.com,Los Angeles,USA,,,,No,Yes,No
+374,515,$78.10,2022-11-18,Gerald Carver,658-867-4112,Gerald.Carver@example.com,Los Angeles,USA,,,,No,Yes,No
+430,518,$40.34,2022-03-02,Mabel Pace,752-347-2146,Mabel.Pace@example.com,Los Angeles,USA,,,,No,Yes,Yes
+444,520,$58.61,2024-02-28,Henry Holloway,760-481-5035,Henry.Holloway@example.com,San Francisco,USA,,,,No,Yes,No
+582,521,$7.40,2023-02-17,Khalid Mclaughlin,140-879-1467,Khalid.Mclaughlin@example.com,San Francisco,USA,,,,Yes,No,No
+543,523,$74.24,2024-03-16,Ameera Kirby,611-776-9890,Ameera.Kirby@example.com,London,United Kingdom,,,,Yes,Yes,No
+349,528,$27.28,2023-04-06,Md Booker,544-944-1609,Md.Booker@example.com,New York,USA,,,,Yes,Yes,No
+936,530,$25.90,2022-07-30,Isobelle Davidson,237-295-4490,Isobelle.Davidson@example.com,San Francisco,USA,5,Pepsi,YES,No,No,Yes
+926,531,$70.47,2022-01-07,Jake Salazar,250-705-1154,Jake.Salazar@example.com,San Francisco,USA,,,,Yes,No,No
+289,535,$16.33,2022-06-08,Carolyn Pittman,451-215-7038,Carolyn.Pittman@example.com,New York,USA,,,,Yes,No,No
+919,538,$23.74,2022-02-18,Tristan Valdez,109-614-1639,Tristan.Valdez@example.com,Los Angeles,USA,72,Dove,YES,Yes,No,Yes
+58,538,$5.95,2024-03-24,Tristan Valdez,109-614-1639,Tristan.Valdez@example.com,Los Angeles,USA,72,Dove,YES,Yes,No,Yes
+328,538,$33.17,2023-12-15,Tristan Valdez,109-614-1639,Tristan.Valdez@example.com,Los Angeles,USA,72,Dove,YES,Yes,No,Yes
+706,540,$14.05,2023-10-24,Savannah Boone,159-573-6793,Savannah.Boone@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+973,540,$43.94,2022-11-08,Savannah Boone,159-573-6793,Savannah.Boone@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+768,543,$41.86,2023-10-04,Esme Krueger,173-138-2227,Esme.Krueger@example.com,Toronto,Canada,,,,Yes,No,Yes
+124,546,$7.10,2023-08-26,Lenny Patrick,109-247-6898,Lenny.Patrick@example.com,San Francisco,USA,,,,Yes,No,Yes
+374,554,$20.62,2024-02-22,Tyrell Holman,582-574-4299,Tyrell.Holman@example.com,San Francisco,USA,,,,No,Yes,Yes
+590,555,$45.29,2023-08-20,Ammar Floyd,960-107-6796,Ammar.Floyd@example.com,New York,USA,93,Dove,YES,No,Yes,Yes
+583,555,$18.98,2023-03-19,Ammar Floyd,960-107-6796,Ammar.Floyd@example.com,New York,USA,93,Dove,YES,No,Yes,Yes
+879,556,$63.95,2022-11-17,Zayn Webb,561-761-7547,Zayn.Webb@example.com,New York,USA,109,Gatorade,NO,Yes,Yes,No
+979,561,$44.62,2022-06-13,Miya Warner,204-288-1980,Miya.Warner@example.com,Los Angeles,USA,,,,No,Yes,No
+337,561,$25.98,2023-04-16,Miya Warner,204-288-1980,Miya.Warner@example.com,Los Angeles,USA,,,,No,Yes,No
+209,563,$7.57,2023-10-29,Safaa Sharpe,648-955-3738,Safaa.Sharpe@example.com,San Francisco,USA,,,,No,Yes,No
+743,563,$57.21,2024-01-13,Safaa Sharpe,648-955-3738,Safaa.Sharpe@example.com,San Francisco,USA,,,,No,Yes,No
+224,564,$66.46,2023-06-16,Craig Mcknight,634-813-9351,Craig.Mcknight@example.com,Chicago,USA,78,Oreo,YES,Yes,Yes,No
+494,568,$44.81,2022-06-08,Zaki Mcpherson,344-278-2013,Zaki.Mcpherson@example.com,San Francisco,USA,,,,Yes,Yes,No
+965,571,$7.81,2022-01-17,Keelan Thompson,254-156-9308,Keelan.Thompson@example.com,San Francisco,USA,,,,No,Yes,Yes
+144,575,$29.51,2022-10-17,Casper Padilla,823-261-2968,Casper.Padilla@example.com,San Francisco,USA,,,,Yes,No,Yes
+429,579,$9.21,2024-01-06,Sufyaan Castillo,412-479-8766,Sufyaan.Castillo@example.com,Montreal,Canada,,,,Yes,Yes,No
+454,588,$9.33,2022-03-18,Miranda Cain,377-263-6278,Miranda.Cain@example.com,Los Angeles,USA,,,,No,Yes,No
+108,592,$35.97,2023-10-23,Jamil Shepherd,298-276-5058,Jamil.Shepherd@example.com,Toronto,Canada,,,,Yes,Yes,Yes
+108,592,$3.86,2023-08-15,Jamil Shepherd,298-276-5058,Jamil.Shepherd@example.com,Toronto,Canada,,,,Yes,Yes,Yes
+980,593,$53.68,2023-10-24,Danyal Lang,629-875-4423,Danyal.Lang@example.com,Toronto,Canada,53,Gatorade,NO,No,Yes,Yes
+147,593,$6.14,2023-02-22,Danyal Lang,629-875-4423,Danyal.Lang@example.com,Toronto,Canada,53,Gatorade,NO,No,Yes,Yes
+118,595,$42.37,2023-05-22,Archie Gregory,945-301-2904,Archie.Gregory@example.com,San Diego,USA,,,,Yes,Yes,No
+710,595,$8.35,2023-03-22,Archie Gregory,945-301-2904,Archie.Gregory@example.com,San Diego,USA,,,,Yes,Yes,No
+64,598,$11.55,2023-03-11,Monica Bruce,302-368-5572,Monica.Bruce@example.com,Los Angeles,USA,,,,No,No,Yes
+274,598,$19.29,2023-12-16,Monica Bruce,302-368-5572,Monica.Bruce@example.com,Los Angeles,USA,,,,No,No,Yes
+472,600,$18.59,2022-11-29,Bill Jacobs,279-704-9018,Bill.Jacobs@example.com,San Francisco,USA,,,,Yes,No,No
+770,602,$4.46,2023-07-18,Jazmin Lopez,116-866-3838,Jazmin.Lopez@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+857,603,$46.99,2023-04-04,Bilal Shaffer,308-774-7278,Bilal.Shaffer@example.com,San Diego,USA,,,,No,Yes,No
+387,605,$10.90,2022-06-15,Earl Hobbs,916-866-7237,Earl.Hobbs@example.com,New York,USA,,,,No,Yes,No
+617,607,$22.93,2023-01-08,Bibi Roberts,631-796-8801,Bibi.Roberts@example.com,New York,USA,117,Kraft Cheese,YES,Yes,No,No
+833,607,$47.77,2023-01-19,Bibi Roberts,631-796-8801,Bibi.Roberts@example.com,New York,USA,117,Kraft Cheese,YES,Yes,No,No
+409,607,$27.24,2024-04-26,Bibi Roberts,631-796-8801,Bibi.Roberts@example.com,New York,USA,117,Kraft Cheese,YES,Yes,No,No
+146,615,$4.93,2023-04-21,Katelyn Collins,878-870-9506,Katelyn.Collins@example.com,San Diego,USA,,,,Yes,No,No
+440,615,$10.46,2022-09-10,Katelyn Collins,878-870-9506,Katelyn.Collins@example.com,San Diego,USA,,,,Yes,No,No
+264,620,$47.19,2023-01-12,Neo Lara,276-319-4768,Neo.Lara@example.com,Toronto,Canada,14,Dove,YES,Yes,No,Yes
+65,620,$19.91,2024-01-01,Neo Lara,276-319-4768,Neo.Lara@example.com,Toronto,Canada,14,Dove,YES,Yes,No,Yes
+63,621,$22.57,2022-11-20,Kiana Carter,219-142-7516,Kiana.Carter@example.com,San Diego,USA,,,,No,No,Yes
+965,624,$31.37,2023-05-23,Nia Adams,520-550-1148,Nia.Adams@example.com,San Diego,USA,,,,Yes,Yes,Yes
+286,640,$53.81,2022-08-26,Nadia Wyatt,277-573-9871,Nadia.Wyatt@example.com,San Diego,USA,,,,Yes,Yes,Yes
+193,647,$43.57,2023-08-08,Jaxson Moss,499-701-5813,Jaxson.Moss@example.com,San Francisco,USA,,,,Yes,No,Yes
+954,647,$51.72,2024-01-10,Jaxson Moss,499-701-5813,Jaxson.Moss@example.com,San Francisco,USA,,,,Yes,No,Yes
+973,648,$20.26,2023-07-03,Luna Levy,855-484-1981,Luna.Levy@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+769,648,$48.39,2024-01-03,Luna Levy,855-484-1981,Luna.Levy@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+820,648,$62.17,2022-06-09,Luna Levy,855-484-1981,Luna.Levy@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+878,655,$49.35,2023-02-17,Hari Everett,487-669-8884,Hari.Everett@example.com,San Francisco,USA,,,,No,Yes,Yes
+979,656,$6.39,2022-08-25,Tomos Velez,233-661-3978,Tomos.Velez@example.com,Los Angeles,USA,83,RedBull,YES,Yes,Yes,No
+879,657,$13.23,2024-04-08,Abu Delacruz,401-411-2184,Abu.Delacruz@example.com,New York,USA,,,,Yes,No,Yes
+345,658,$33.28,2024-02-28,Syeda Calhoun,738-680-1717,Syeda.Calhoun@example.com,Chicago,USA,,,,No,Yes,No
+970,660,$82.99,2023-01-25,Zayn Kaufman,893-890-8415,Zayn.Kaufman@example.com,Chicago,USA,,,,No,Yes,Yes
+907,660,$60.75,2023-06-26,Zayn Kaufman,893-890-8415,Zayn.Kaufman@example.com,Chicago,USA,,,,No,Yes,Yes
+74,664,$31.96,2023-07-31,Zara Oconnell,543-537-6044,Zara.Oconnell@example.com,Toronto,Canada,,,,Yes,No,No
+255,668,$52.93,2023-11-24,Joshua Bonner,550-710-1849,Joshua.Bonner@example.com,San Francisco,USA,,,,No,Yes,No
+885,670,$18.73,2022-09-01,Jacob Patton,914-260-3945,Jacob.Patton@example.com,San Diego,USA,,,,Yes,Yes,Yes
+191,672,$28.40,2022-09-14,Kane Huff,417-611-9319,Kane.Huff@example.com,Chicago,USA,,,,No,Yes,No
+638,674,$30.12,2023-09-23,Mahir Cooper,829-570-7880,Mahir.Cooper@example.com,San Francisco,USA,,,,No,Yes,No
+915,676,$7.51,2022-02-25,Oliwia Harvey,143-701-8741,Oliwia.Harvey@example.com,San Francisco,USA,,,,No,Yes,No
+932,676,$70.99,2023-03-28,Oliwia Harvey,143-701-8741,Oliwia.Harvey@example.com,San Francisco,USA,,,,No,Yes,No
+901,677,$5.07,2023-06-08,Kelvin Hendricks,767-726-4455,Kelvin.Hendricks@example.com,San Diego,USA,87,Coca-Cola,NO,Yes,No,No
+773,680,$8.22,2024-03-01,Esha Zuniga,807-517-9078,Esha.Zuniga@example.com,Los Angeles,USA,,,,No,Yes,Yes
+976,682,$32.26,2023-02-14,Laura Valdez,766-901-1157,Laura.Valdez@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+296,683,$10.00,2022-10-11,Irene Kim,946-883-2145,Irene.Kim@example.com,San Francisco,USA,,,,No,No,Yes
+89,693,$51.23,2023-10-12,Jayden Dunlap,626-458-8110,Jayden.Dunlap@example.com,New York,USA,,,,Yes,No,Yes
+48,694,$77.19,2022-11-26,Richard Pope,216-184-3684,Richard.Pope@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+84,697,$51.67,2023-09-25,Donald Horne,738-911-3567,Donald.Horne@example.com,San Francisco,USA,,,,Yes,No,Yes
+970,705,$5.37,2023-08-11,Vincent Garrison,598-173-8153,Vincent.Garrison@example.com,Chicago,USA,,,,No,No,Yes
+314,705,$47.41,2023-06-25,Vincent Garrison,598-173-8153,Vincent.Garrison@example.com,Chicago,USA,,,,No,No,Yes
+916,706,$60.28,2023-05-22,Elisha Garza,313-206-2033,Elisha.Garza@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+871,706,$12.13,2022-02-13,Elisha Garza,313-206-2033,Elisha.Garza@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+660,708,$30.12,2022-11-09,Enzo Whitney,565-709-5636,Enzo.Whitney@example.com,Chicago,USA,,,,Yes,Yes,Yes
+263,714,$19.32,2023-06-19,Isla Barber,860-505-2643,Isla.Barber@example.com,Toronto,Canada,,,,No,No,Yes
+713,718,$63.51,2022-10-31,Esme Reeves,151-285-9583,Esme.Reeves@example.com,Chicago,USA,,,,No,Yes,No
+820,719,$89.06,2022-03-04,Marnie White,267-434-1395,Marnie.White@example.com,San Francisco,USA,,,,Yes,No,No
+526,720,$94.26,2023-12-24,Giovanni Duncan,679-161-6360,Giovanni.Duncan@example.com,New York,USA,,,,No,Yes,Yes
+280,735,$21.88,2022-01-10,Shane Wheeler,315-892-7127,Shane.Wheeler@example.com,Los Angeles,USA,,,,Yes,No,Yes
+571,737,$44.68,2022-01-13,Kiara Bell,614-291-6530,Kiara.Bell@example.com,San Francisco,USA,,,,Yes,No,Yes
+986,737,$2.44,2022-11-19,Kiara Bell,614-291-6530,Kiara.Bell@example.com,San Francisco,USA,,,,Yes,No,Yes
+244,738,$1.00,2023-12-03,Gertrude Mcgrath,364-150-1035,Gertrude.Mcgrath@example.com,Toronto,Canada,,,,Yes,No,Yes
+915,743,$19.17,2022-07-15,Wendy Mcclure,830-402-9784,Wendy.Mcclure@example.com,San Diego,USA,,,,Yes,No,No
+206,747,$2.79,2022-07-09,Tia Ali,507-663-5326,Tia.Ali@example.com,San Francisco,USA,102,Dove,NO,Yes,No,No
+739,748,$28.43,2023-10-23,Montgomery Davila,267-999-7224,Montgomery.Davila@example.com,New York,USA,62,Kraft Cheese,NO,Yes,Yes,No
+682,749,$40.33,2023-07-29,Tobias Beltran,598-751-1029,Tobias.Beltran@example.com,Chicago,USA,,,,No,Yes,Yes
+1,749,$31.20,2023-09-29,Tobias Beltran,598-751-1029,Tobias.Beltran@example.com,Chicago,USA,,,,No,Yes,Yes
+455,749,$28.53,2023-01-22,Tobias Beltran,598-751-1029,Tobias.Beltran@example.com,Chicago,USA,,,,No,Yes,Yes
+397,753,$75.66,2023-03-26,Anais Ball,802-416-6545,Anais.Ball@example.com,San Diego,USA,103,Dove,YES,No,Yes,Yes
+630,756,$94.64,2023-01-04,Herbie Huber,562-925-1087,Herbie.Huber@example.com,New York,USA,,,,Yes,No,Yes
+289,756,$78.30,2022-11-11,Herbie Huber,562-925-1087,Herbie.Huber@example.com,New York,USA,,,,Yes,No,Yes
+982,763,$41.16,2023-12-13,Huda Crane,243-321-6881,Huda.Crane@example.com,Toronto,Canada,,,,Yes,Yes,No
+935,764,$4.45,2024-01-10,Cecily Escobar,840-532-1467,Cecily.Escobar@example.com,New York,USA,,,,No,Yes,No
+783,764,$50.81,2024-04-14,Cecily Escobar,840-532-1467,Cecily.Escobar@example.com,New York,USA,,,,No,Yes,No
+841,765,$39.20,2022-10-21,Amir Blackwell,291-386-7567,Amir.Blackwell@example.com,San Francisco,USA,,,,No,Yes,No
+562,770,$79.95,2022-10-08,Jannat Landry,754-634-9309,Jannat.Landry@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+908,772,$48.43,2024-03-11,Rajan Dickson,372-775-6929,Rajan.Dickson@example.com,San Diego,USA,64,Pepsi,YES,Yes,No,No
+573,773,$1.00,2023-11-17,Luqman Larson,100-329-7363,Luqman.Larson@example.com,San Francisco,USA,,,,Yes,No,Yes
+631,773,$29.80,2023-06-21,Luqman Larson,100-329-7363,Luqman.Larson@example.com,San Francisco,USA,,,,Yes,No,Yes
+659,778,$36.03,2023-06-01,Willow Buck,472-603-6198,Willow.Buck@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+59,791,$101.69,2024-03-21,Aoife Davidson,628-333-9139,Aoife.Davidson@example.com,London,United Kingdom,129,RedBull,YES,Yes,No,No
+138,796,$68.32,2023-08-22,Robbie Hardy,950-716-3630,Robbie.Hardy@example.com,Chicago,USA,,,,Yes,No,No
+66,796,$70.40,2023-05-29,Robbie Hardy,950-716-3630,Robbie.Hardy@example.com,Chicago,USA,,,,Yes,No,No
+893,797,$40.52,2023-04-18,Lilian Strickland,925-438-1993,Lilian.Strickland@example.com,Toronto,Canada,,,,Yes,Yes,No
+960,802,$29.23,2022-04-26,Eleni Maxwell,449-237-4755,Eleni.Maxwell@example.com,San Diego,USA,,,,Yes,No,No
+964,803,$23.73,2024-02-25,Susan Fowler,305-117-8580,Susan.Fowler@example.com,San Diego,USA,,,,Yes,No,Yes
+472,807,$4.26,2023-12-25,Polly Mendez,916-453-8696,Polly.Mendez@example.com,San Francisco,USA,,,,Yes,No,Yes
+592,809,$55.38,2023-08-26,Abdullahi Carson,632-547-8327,Abdullahi.Carson@example.com,Toronto,Canada,,,,Yes,Yes,Yes
+487,810,$22.60,2024-04-27,Syed Mooney,348-929-4959,Syed.Mooney@example.com,San Francisco,USA,,,,No,Yes,Yes
+267,812,$35.92,2022-12-07,Saad Ali,185-189-3978,Saad.Ali@example.com,San Francisco,USA,67,Kraft Cheese,YES,No,No,Yes
+833,813,$126.24,2022-06-05,Arthur Hebert,203-343-2956,Arthur.Hebert@example.com,New York,USA,,,,Yes,No,No
+950,813,$52.80,2022-11-19,Arthur Hebert,203-343-2956,Arthur.Hebert@example.com,New York,USA,,,,Yes,No,No
+979,815,$47.61,2022-05-01,Aurora Andrews,353-307-2005,Aurora.Andrews@example.com,San Diego,USA,,,,No,Yes,No
+373,817,$6.98,2022-01-17,Renee Mullen,185-170-8307,Renee.Mullen@example.com,San Diego,USA,,,,Yes,Yes,No
+806,825,$5.77,2023-03-27,Chiara Ho,279-331-5254,Chiara.Ho@example.com,Montreal,Canada,,,,No,No,Yes
+1,825,$20.31,2023-09-13,Chiara Ho,279-331-5254,Chiara.Ho@example.com,Montreal,Canada,,,,No,No,Yes
+625,825,$6.03,2023-12-20,Chiara Ho,279-331-5254,Chiara.Ho@example.com,Montreal,Canada,,,,No,No,Yes
+710,827,$44.83,2024-01-21,Laurence Graves,609-435-5709,Laurence.Graves@example.com,Los Angeles,USA,,,,No,Yes,No
+342,827,$45.99,2023-05-04,Laurence Graves,609-435-5709,Laurence.Graves@example.com,Los Angeles,USA,,,,No,Yes,No
+966,827,$14.89,2022-07-28,Laurence Graves,609-435-5709,Laurence.Graves@example.com,Los Angeles,USA,,,,No,Yes,No
+870,828,$3.60,2023-02-15,Nora Donaldson,414-618-5713,Nora.Donaldson@example.com,San Diego,USA,11,Colgate,YES,Yes,Yes,Yes
+924,828,$36.36,2024-04-24,Nora Donaldson,414-618-5713,Nora.Donaldson@example.com,San Diego,USA,11,Colgate,YES,Yes,Yes,Yes
+331,829,$13.73,2022-12-17,Ismaeel Schmidt,110-478-3409,Ismaeel.Schmidt@example.com,Los Angeles,USA,13,Pepsi,YES,No,No,Yes
+331,829,$13.73,2022-12-17,Ismaeel Schmidt,110-478-3409,Ismaeel.Schmidt@example.com,Los Angeles,USA,119,Dove,YES,No,No,Yes
+110,830,$12.70,2022-12-12,Adem Mccoy,885-779-4082,Adem.Mccoy@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+979,830,$45.17,2022-02-22,Adem Mccoy,885-779-4082,Adem.Mccoy@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+1,830,$8.68,2024-01-30,Adem Mccoy,885-779-4082,Adem.Mccoy@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+683,830,$51.35,2023-09-24,Adem Mccoy,885-779-4082,Adem.Mccoy@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+221,831,$1.59,2022-12-09,Angel Browning,768-205-1455,Angel.Browning@example.com,Los Angeles,USA,,,,No,Yes,No
+758,835,$29.08,2023-05-31,Russell Carlson,635-758-7564,Russell.Carlson@example.com,San Francisco,USA,,,,Yes,Yes,No
+242,836,$35.90,2022-10-28,Sasha Ponce,746-650-5343,Sasha.Ponce@example.com,New York,USA,,,,Yes,No,Yes
+341,837,$1.00,2024-01-30,Izaak Welsh,280-473-9965,Izaak.Welsh@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+974,838,$7.29,2023-09-30,Aisha Sosa,964-448-9785,Aisha.Sosa@example.com,New York,USA,,,,No,No,Yes
+342,838,$61.74,2023-10-27,Aisha Sosa,964-448-9785,Aisha.Sosa@example.com,New York,USA,,,,No,No,Yes
+270,838,$41.36,2023-05-09,Aisha Sosa,964-448-9785,Aisha.Sosa@example.com,New York,USA,,,,No,No,Yes
+127,842,$26.11,2023-03-28,Nancy Blair,434-174-7916,Nancy.Blair@example.com,Toronto,Canada,131,Gatorade,NO,No,Yes,Yes
+938,844,$52.62,2022-07-29,Marnie Sheppard,576-261-4653,Marnie.Sheppard@example.com,Los Angeles,USA,,,,No,Yes,No
+215,844,$10.54,2024-01-11,Marnie Sheppard,576-261-4653,Marnie.Sheppard@example.com,Los Angeles,USA,,,,No,Yes,No
+678,846,$70.92,2022-11-30,John Mason,768-888-3211,John.Mason@example.com,San Diego,USA,,,,Yes,Yes,No
+202,846,$72.79,2023-01-14,John Mason,768-888-3211,John.Mason@example.com,San Diego,USA,,,,Yes,Yes,No
+279,848,$3.02,2022-09-18,Charis Bray,175-925-8526,Charis.Bray@example.com,Los Angeles,USA,,,,Yes,Yes,No
+59,848,$73.76,2024-03-15,Charis Bray,175-925-8526,Charis.Bray@example.com,Los Angeles,USA,,,,Yes,Yes,No
+646,848,$82.36,2023-12-06,Charis Bray,175-925-8526,Charis.Bray@example.com,Los Angeles,USA,,,,Yes,Yes,No
+963,850,$1.00,2023-10-07,Taylor Woods,294-365-8364,Taylor.Woods@example.com,Chicago,USA,,,,Yes,Yes,Yes
+82,850,$44.10,2023-07-15,Taylor Woods,294-365-8364,Taylor.Woods@example.com,Chicago,USA,,,,Yes,Yes,Yes
+196,850,$16.16,2022-12-14,Taylor Woods,294-365-8364,Taylor.Woods@example.com,Chicago,USA,,,,Yes,Yes,Yes
+279,852,$71.71,2022-07-27,Evelyn Cross,312-643-8868,Evelyn.Cross@example.com,San Francisco,USA,,,,No,No,Yes
+223,856,$50.51,2023-02-21,Maisie Cunningham,389-110-9784,Maisie.Cunningham@example.com,Los Angeles,USA,,,,No,Yes,Yes
+976,864,$33.41,2022-12-01,Asia Holloway,512-876-7834,Asia.Holloway@example.com,Los Angeles,USA,,,,No,Yes,No
+868,865,$81.69,2023-07-02,Christina Blanchard,420-887-3636,Christina.Blanchard@example.com,New York,USA,,,,No,Yes,No
+185,867,$44.37,2023-04-17,Ioan Harrington,803-120-2281,Ioan.Harrington@example.com,San Diego,USA,,,,No,No,Yes
+922,869,$99.20,2024-01-27,Bibi Weaver,956-787-2725,Bibi.Weaver@example.com,Paris,France,,,,Yes,No,Yes
+435,870,$85.26,2022-01-31,Stacey Manning,981-952-6391,Stacey.Manning@example.com,Los Angeles,USA,,,,Yes,No,No
+379,874,$34.79,2024-03-15,Alasdair Mckinney,608-300-8331,Alasdair.Mckinney@example.com,Montreal,Canada,,,,Yes,Yes,No
+231,874,$30.03,2023-07-22,Alasdair Mckinney,608-300-8331,Alasdair.Mckinney@example.com,Montreal,Canada,,,,Yes,Yes,No
+738,874,$71.33,2023-08-02,Alasdair Mckinney,608-300-8331,Alasdair.Mckinney@example.com,Montreal,Canada,,,,Yes,Yes,No
+973,877,$1.67,2023-04-01,Drew Orozco,531-709-2553,Drew.Orozco@example.com,San Diego,USA,,,,No,No,Yes
+554,877,$33.99,2022-12-13,Drew Orozco,531-709-2553,Drew.Orozco@example.com,San Diego,USA,,,,No,No,Yes
+163,879,$4.43,2023-02-27,Lucy Fuentes,427-948-5524,Lucy.Fuentes@example.com,New York,USA,,,,Yes,Yes,No
+193,879,$18.28,2023-06-05,Lucy Fuentes,427-948-5524,Lucy.Fuentes@example.com,New York,USA,,,,Yes,Yes,No
+696,879,$66.30,2023-09-25,Lucy Fuentes,427-948-5524,Lucy.Fuentes@example.com,New York,USA,,,,Yes,Yes,No
+878,881,$9.88,2022-06-07,Kathleen Carter,210-798-9930,Kathleen.Carter@example.com,San Francisco,USA,,,,No,No,Yes
+686,882,$14.93,2022-02-16,Josie Holt,745-483-6160,Josie.Holt@example.com,Los Angeles,USA,,,,No,Yes,No
+441,882,$58.55,2023-03-22,Josie Holt,745-483-6160,Josie.Holt@example.com,Los Angeles,USA,,,,No,Yes,No
+189,883,$24.84,2023-04-06,Daniela James,716-145-3987,Daniela.James@example.com,San Francisco,USA,69,Gatorade,YES,No,No,Yes
+769,885,$15.39,2023-01-25,Omar Ashley,156-912-7263,Omar.Ashley@example.com,Los Angeles,USA,,,,No,No,Yes
+674,885,$12.32,2022-10-10,Omar Ashley,156-912-7263,Omar.Ashley@example.com,Los Angeles,USA,,,,No,No,Yes
+62,885,$9.12,2023-08-30,Omar Ashley,156-912-7263,Omar.Ashley@example.com,Los Angeles,USA,,,,No,No,Yes
+682,888,$82.91,2024-04-29,Liana Baldwin,736-366-9050,Liana.Baldwin@example.com,San Diego,USA,130,Kraft Cheese,YES,Yes,No,No
+735,888,$3.73,2022-07-29,Liana Baldwin,736-366-9050,Liana.Baldwin@example.com,San Diego,USA,130,Kraft Cheese,YES,Yes,No,No
+912,888,$31.92,2022-09-09,Liana Baldwin,736-366-9050,Liana.Baldwin@example.com,San Diego,USA,130,Kraft Cheese,YES,Yes,No,No
+376,888,$24.51,2023-06-02,Liana Baldwin,736-366-9050,Liana.Baldwin@example.com,San Diego,USA,130,Kraft Cheese,YES,Yes,No,No
+516,890,$13.79,2022-03-18,Ahmad Landry,207-841-9893,Ahmad.Landry@example.com,Los Angeles,USA,,,,No,Yes,No
+976,890,$25.21,2024-02-07,Ahmad Landry,207-841-9893,Ahmad.Landry@example.com,Los Angeles,USA,,,,No,Yes,No
+712,892,$43.03,2023-10-14,Sydney Pratt,297-838-1084,Sydney.Pratt@example.com,Toronto,Canada,,,,No,Yes,Yes
+111,895,$5.37,2023-10-04,Kamil Guzman,641-829-6099,Kamil.Guzman@example.com,San Francisco,USA,,,,No,Yes,Yes
+965,896,$16.90,2023-09-28,Jordanne Juarez,376-601-8743,Jordanne.Juarez@example.com,San Francisco,USA,,,,No,No,Yes
+68,899,$75.99,2024-03-04,Frankie Jenkins,301-409-5419,Frankie.Jenkins@example.com,San Francisco,USA,,,,No,Yes,No
+2,899,$75.15,2024-04-15,Frankie Jenkins,301-409-5419,Frankie.Jenkins@example.com,San Francisco,USA,,,,No,Yes,No
+686,901,$15.01,2023-08-01,Lily-May Horne,564-761-8451,Lily-May.Horne@example.com,Los Angeles,USA,,,,No,No,Yes
+960,902,$16.46,2022-12-05,Mitchell Murray,939-709-6815,Mitchell.Murray@example.com,San Francisco,USA,60,Dove,YES,Yes,No,Yes
+930,902,$13.13,2023-01-28,Mitchell Murray,939-709-6815,Mitchell.Murray@example.com,San Francisco,USA,60,Dove,YES,Yes,No,Yes
+463,903,$52.03,2022-08-23,Dominik Velez,149-740-6115,Dominik.Velez@example.com,San Francisco,USA,,,,Yes,No,Yes
+28,907,$12.86,2022-05-06,Samia Bradley,363-816-6259,Samia.Bradley@example.com,San Diego,USA,,,,No,Yes,Yes
+878,907,$75.24,2023-01-19,Samia Bradley,363-816-6259,Samia.Bradley@example.com,San Diego,USA,,,,No,Yes,Yes
+846,908,$49.61,2022-09-15,Nataniel Glenn,504-112-5228,Nataniel.Glenn@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+697,908,$22.34,2024-03-10,Nataniel Glenn,504-112-5228,Nataniel.Glenn@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+631,913,$137.01,2023-07-21,Ricardo Odling,218-272-9415,Ricardo.Odling@example.com,New York,USA,,,,Yes,No,Yes
+601,913,$10.48,2023-11-19,Ricardo Odling,218-272-9415,Ricardo.Odling@example.com,New York,USA,,,,Yes,No,Yes
+865,913,$22.82,2023-11-16,Ricardo Odling,218-272-9415,Ricardo.Odling@example.com,New York,USA,,,,Yes,No,Yes
+413,913,$61.17,2023-04-24,Ricardo Odling,218-272-9415,Ricardo.Odling@example.com,New York,USA,,,,Yes,No,Yes
+902,914,$13.81,2023-02-14,Nancy Sharp,723-866-1140,Nancy.Sharp@example.com,Los Angeles,USA,,,,No,Yes,No
+490,914,$87.30,2022-08-25,Nancy Sharp,723-866-1140,Nancy.Sharp@example.com,Los Angeles,USA,,,,No,Yes,No
+924,915,$56.23,2022-04-05,Barry Buck,667-391-6777,Barry.Buck@example.com,San Francisco,USA,7,Netflix,NO,Yes,Yes,Yes
+751,915,$22.27,2022-02-17,Barry Buck,667-391-6777,Barry.Buck@example.com,San Francisco,USA,7,Netflix,NO,Yes,Yes,Yes
+852,916,$18.04,2022-03-06,Mya Ho,448-770-8204,Mya.Ho@example.com,San Francisco,USA,,,,No,Yes,Yes
+546,916,$59.51,2023-09-10,Mya Ho,448-770-8204,Mya.Ho@example.com,San Francisco,USA,,,,No,Yes,Yes
+758,920,$18.48,2023-10-02,Kamil Bernard,400-528-1349,Kamil.Bernard@example.com,San Francisco,USA,,,,No,Yes,No
+545,920,$82.09,2024-02-23,Kamil Bernard,400-528-1349,Kamil.Bernard@example.com,San Francisco,USA,,,,No,Yes,No
+351,920,$23.69,2023-02-06,Kamil Bernard,400-528-1349,Kamil.Bernard@example.com,San Francisco,USA,,,,No,Yes,No
+130,923,$5.75,2023-05-11,Russell Long,399-959-7203,Russell.Long@example.com,Montreal,Canada,,,,Yes,Yes,Yes
+593,923,$116.46,2024-02-10,Russell Long,399-959-7203,Russell.Long@example.com,Montreal,Canada,,,,Yes,Yes,Yes
+137,923,$4.46,2024-04-12,Russell Long,399-959-7203,Russell.Long@example.com,Montreal,Canada,,,,Yes,Yes,Yes
+800,923,$42.19,2024-04-08,Russell Long,399-959-7203,Russell.Long@example.com,Montreal,Canada,,,,Yes,Yes,Yes
+36,924,$67.92,2023-08-28,Kendra Francis,680-603-3144,Kendra.Francis@example.com,San Francisco,USA,107,Oreo,YES,Yes,No,No
+979,924,$38.71,2023-08-17,Kendra Francis,680-603-3144,Kendra.Francis@example.com,San Francisco,USA,107,Oreo,YES,Yes,No,No
+792,925,$18.76,2023-08-25,Yasmine Scott,300-321-6761,Yasmine.Scott@example.com,San Diego,USA,,,,No,Yes,No
+815,925,$26.48,2023-08-23,Yasmine Scott,300-321-6761,Yasmine.Scott@example.com,San Diego,USA,,,,No,Yes,No
+907,926,$76.05,2023-12-12,Ann John,814-362-6094,Ann.John@example.com,San Francisco,USA,104,RedBull,YES,No,Yes,Yes
+939,926,$15.67,2023-04-07,Ann John,814-362-6094,Ann.John@example.com,San Francisco,USA,104,RedBull,YES,No,Yes,Yes
+258,926,$3.49,2022-04-02,Ann John,814-362-6094,Ann.John@example.com,San Francisco,USA,104,RedBull,YES,No,Yes,Yes
+363,927,$69.89,2023-06-03,Alejandro Kent,915-320-3214,Alejandro.Kent@example.com,Chicago,USA,12,Gatorade,YES,Yes,No,Yes
+314,927,$18.87,2022-12-18,Alejandro Kent,915-320-3214,Alejandro.Kent@example.com,Chicago,USA,12,Gatorade,YES,Yes,No,Yes
+191,929,$5.41,2024-03-16,Alannah Perkins,705-521-6039,Alannah.Perkins@example.com,Chicago,USA,125,RedBull,YES,Yes,No,Yes
+936,930,$15.93,2024-03-25,Christina Mays,333-143-8841,Christina.Mays@example.com,San Francisco,USA,,,,Yes,Yes,No
+66,930,$13.14,2024-01-06,Christina Mays,333-143-8841,Christina.Mays@example.com,San Francisco,USA,,,,Yes,Yes,No
+570,931,$29.26,2022-04-03,Tori Rowland,372-470-9101,Tori.Rowland@example.com,San Diego,USA,,,,Yes,No,Yes
+699,931,$39.03,2022-02-10,Tori Rowland,372-470-9101,Tori.Rowland@example.com,San Diego,USA,,,,Yes,No,Yes
+75,932,$13.06,2022-09-16,Ayden Valentine,208-392-1702,Ayden.Valentine@example.com,San Francisco,USA,,,,Yes,Yes,No
+364,932,$35.42,2023-06-19,Ayden Valentine,208-392-1702,Ayden.Valentine@example.com,San Francisco,USA,,,,Yes,Yes,No
+930,933,$11.02,2022-07-13,Kaine Blankenship,294-274-7917,Kaine.Blankenship@example.com,San Diego,USA,75,RedBull,YES,Yes,No,Yes
+461,934,$5.31,2022-12-01,Alessandro French,216-516-1958,Alessandro.French@example.com,San Diego,USA,4,Pepsi,YES,Yes,Yes,No
+755,936,$2.78,2022-11-08,Ted Wiggins,153-176-3641,Ted.Wiggins@example.com,San Diego,USA,127,Kit-Kat,YES,Yes,No,No
+956,936,$34.90,2022-03-27,Ted Wiggins,153-176-3641,Ted.Wiggins@example.com,San Diego,USA,127,Kit-Kat,YES,Yes,No,No
+374,936,$24.47,2023-06-15,Ted Wiggins,153-176-3641,Ted.Wiggins@example.com,San Diego,USA,127,Kit-Kat,YES,Yes,No,No
+861,937,$64.74,2022-12-01,Nina Mathews,863-385-2205,Nina.Mathews@example.com,New York,USA,,,,No,No,Yes
+335,937,$41.10,2023-10-17,Nina Mathews,863-385-2205,Nina.Mathews@example.com,New York,USA,,,,No,No,Yes
+840,939,$13.24,2023-10-25,Alyssa Bradshaw,606-353-8050,Alyssa.Bradshaw@example.com,San Diego,USA,,,,Yes,Yes,No
+902,939,$13.01,2023-01-15,Alyssa Bradshaw,606-353-8050,Alyssa.Bradshaw@example.com,San Diego,USA,,,,Yes,Yes,No
+875,939,$12.40,2023-02-07,Alyssa Bradshaw,606-353-8050,Alyssa.Bradshaw@example.com,San Diego,USA,,,,Yes,Yes,No
+957,940,$60.70,2023-03-08,Marilyn Hart,635-581-5074,Marilyn.Hart@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+924,940,$1.67,2023-11-30,Marilyn Hart,635-581-5074,Marilyn.Hart@example.com,Los Angeles,USA,,,,Yes,Yes,Yes
+85,944,$20.47,2023-06-21,Hiba Hicks,640-390-3390,Hiba.Hicks@example.com,Chicago,USA,,,,Yes,No,Yes
+945,945,$78.81,2022-08-19,Elisha Owens,195-699-1871,Elisha.Owens@example.com,Los Angeles,USA,,,,No,No,Yes
+960,945,$9.36,2022-04-10,Elisha Owens,195-699-1871,Elisha.Owens@example.com,Los Angeles,USA,,,,No,No,Yes
+958,945,$39.94,2022-01-17,Elisha Owens,195-699-1871,Elisha.Owens@example.com,Los Angeles,USA,,,,No,No,Yes
+74,945,$32.25,2024-02-20,Elisha Owens,195-699-1871,Elisha.Owens@example.com,Los Angeles,USA,,,,No,No,Yes
+976,947,$11.42,2024-03-31,Isra Burgess,142-470-3907,Isra.Burgess@example.com,San Diego,USA,137,Oreo,YES,Yes,Yes,No
+71,947,$62.00,2024-04-01,Isra Burgess,142-470-3907,Isra.Burgess@example.com,San Diego,USA,137,Oreo,YES,Yes,Yes,No
+802,947,$59.94,2023-11-15,Isra Burgess,142-470-3907,Isra.Burgess@example.com,San Diego,USA,137,Oreo,YES,Yes,Yes,No
+701,947,$85.97,2023-08-17,Isra Burgess,142-470-3907,Isra.Burgess@example.com,San Diego,USA,137,Oreo,YES,Yes,Yes,No
+862,947,$44.65,2022-03-25,Isra Burgess,142-470-3907,Isra.Burgess@example.com,San Diego,USA,137,Oreo,YES,Yes,Yes,No
+452,947,$31.89,2022-06-09,Isra Burgess,142-470-3907,Isra.Burgess@example.com,San Diego,USA,137,Oreo,YES,Yes,Yes,No
+938,947,$61.63,2023-04-16,Isra Burgess,142-470-3907,Isra.Burgess@example.com,San Diego,USA,137,Oreo,YES,Yes,Yes,No
+939,948,$17.68,2024-02-24,Kobe Knapp,911-288-9695,Kobe.Knapp@example.com,Los Angeles,USA,,,,No,Yes,Yes
+890,948,$57.48,2024-01-23,Kobe Knapp,911-288-9695,Kobe.Knapp@example.com,Los Angeles,USA,,,,No,Yes,Yes
+571,954,$22.82,2023-08-19,Aston Villegas,553-640-6714,Aston.Villegas@example.com,Los Angeles,USA,,,,Yes,Yes,No
+385,954,$4.36,2022-03-11,Aston Villegas,553-640-6714,Aston.Villegas@example.com,Los Angeles,USA,,,,Yes,Yes,No
+933,957,$6.61,2023-10-01,Effie Jordan,778-566-2709,Effie.Jordan@example.com,San Francisco,USA,,,,No,Yes,Yes
+966,958,$1.13,2024-04-02,Luna Fowler,137-365-6816,Luna.Fowler@example.com,Los Angeles,USA,89,Dove,YES,Yes,Yes,Yes
+915,958,$20.82,2022-02-28,Luna Fowler,137-365-6816,Luna.Fowler@example.com,Los Angeles,USA,89,Dove,YES,Yes,Yes,Yes
+916,960,$39.94,2022-07-06,Lewis Mcmahon,682-426-4872,Lewis.Mcmahon@example.com,San Francisco,USA,,,,Yes,No,No
+873,960,$18.45,2023-09-26,Lewis Mcmahon,682-426-4872,Lewis.Mcmahon@example.com,San Francisco,USA,,,,Yes,No,No
+116,960,$3.75,2023-09-07,Lewis Mcmahon,682-426-4872,Lewis.Mcmahon@example.com,San Francisco,USA,,,,Yes,No,No
+43,961,$37.86,2023-11-16,Tobias Schultz,995-854-2821,Tobias.Schultz@example.com,Los Angeles,USA,,,,No,Yes,Yes
+440,961,$12.24,2024-02-16,Tobias Schultz,995-854-2821,Tobias.Schultz@example.com,Los Angeles,USA,,,,No,Yes,Yes
+958,961,$26.79,2022-02-11,Tobias Schultz,995-854-2821,Tobias.Schultz@example.com,Los Angeles,USA,,,,No,Yes,Yes
+249,961,$2.97,2023-04-10,Tobias Schultz,995-854-2821,Tobias.Schultz@example.com,Los Angeles,USA,,,,No,Yes,Yes
+722,963,$122.30,2023-01-06,Billy Norton,816-614-5153,Billy.Norton@example.com,Chicago,USA,,,,Yes,No,No
+192,963,$80.54,2024-02-06,Billy Norton,816-614-5153,Billy.Norton@example.com,Chicago,USA,,,,Yes,No,No
+286,963,$21.05,2024-03-09,Billy Norton,816-614-5153,Billy.Norton@example.com,Chicago,USA,,,,Yes,No,No
+72,964,$8.65,2023-06-15,Colby Harding,584-554-7060,Colby.Harding@example.com,San Francisco,USA,,,,Yes,Yes,Yes
+646,965,$27.26,2023-05-17,Renee Arroyo,706-663-4493,Renee.Arroyo@example.com,Los Angeles,USA,,,,No,Yes,Yes
+926,965,$45.91,2023-02-06,Renee Arroyo,706-663-4493,Renee.Arroyo@example.com,Los Angeles,USA,,,,No,Yes,Yes
+259,965,$68.00,2022-06-15,Renee Arroyo,706-663-4493,Renee.Arroyo@example.com,Los Angeles,USA,,,,No,Yes,Yes
+197,965,$55.76,2024-01-19,Renee Arroyo,706-663-4493,Renee.Arroyo@example.com,Los Angeles,USA,,,,No,Yes,Yes
+363,966,$38.71,2023-11-05,Marjorie Munoz,385-637-4138,Marjorie.Munoz@example.com,Los Angeles,USA,,,,Yes,No,No
+272,966,$79.49,2022-05-19,Marjorie Munoz,385-637-4138,Marjorie.Munoz@example.com,Los Angeles,USA,,,,Yes,No,No
+263,967,$38.51,2024-01-12,Emilio Stevenson,293-399-2353,Emilio.Stevenson@example.com,Toronto,Canada,,,,Yes,No,No
+322,968,$70.74,2023-10-25,Roosevelt Huff,348-716-1274,Roosevelt.Huff@example.com,New York,USA,,,,Yes,Yes,No
+535,968,$21.17,2022-09-14,Roosevelt Huff,348-716-1274,Roosevelt.Huff@example.com,New York,USA,,,,Yes,Yes,No
+387,971,$37.75,2022-08-30,Kyran Duncan,433-632-3326,Kyran.Duncan@example.com,New York,USA,9,Oreo,YES,Yes,Yes,No
+749,972,$8.84,2023-03-30,Rhiannon Vaughan,206-626-6238,Rhiannon.Vaughan@example.com,Chicago,USA,,,,Yes,No,Yes
+718,972,$13.25,2023-05-15,Rhiannon Vaughan,206-626-6238,Rhiannon.Vaughan@example.com,Chicago,USA,,,,Yes,No,Yes
+308,973,$7.76,2022-02-14,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,54,Kit-Kat,YES,Yes,Yes,No
+308,973,$7.76,2022-02-14,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,59,Pepsi,YES,Yes,Yes,No
+960,973,$35.81,2022-01-20,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,54,Kit-Kat,YES,Yes,Yes,No
+960,973,$35.81,2022-01-20,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,59,Pepsi,YES,Yes,Yes,No
+237,973,$59.93,2023-10-20,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,54,Kit-Kat,YES,Yes,Yes,No
+237,973,$59.93,2023-10-20,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,59,Pepsi,YES,Yes,Yes,No
+461,973,$74.82,2023-12-24,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,54,Kit-Kat,YES,Yes,Yes,No
+461,973,$74.82,2023-12-24,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,59,Pepsi,YES,Yes,Yes,No
+195,973,$20.44,2023-12-25,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,54,Kit-Kat,YES,Yes,Yes,No
+195,973,$20.44,2023-12-25,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,59,Pepsi,YES,Yes,Yes,No
+938,973,$59.58,2023-10-02,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,54,Kit-Kat,YES,Yes,Yes,No
+938,973,$59.58,2023-10-02,Jean Winters,526-938-2752,Jean.Winters@example.com,San Diego,USA,59,Pepsi,YES,Yes,Yes,No
+22,976,$19.84,2022-07-27,Marnie Mayo,725-331-2757,Marnie.Mayo@example.com,San Diego,USA,112,Oreo,YES,Yes,No,No
+925,976,$37.77,2023-01-18,Marnie Mayo,725-331-2757,Marnie.Mayo@example.com,San Diego,USA,112,Oreo,YES,Yes,No,No
+783,978,$3.72,2023-11-07,Zain Haney,206-514-3761,Zain.Haney@example.com,New York,USA,,,,No,Yes,No
+986,979,$56.93,2022-05-05,Myrtle Bradford,960-593-3677,Myrtle.Bradford@example.com,San Diego,USA,,,,Yes,No,Yes
+982,980,$9.17,2024-04-23,Kacie Lester,673-651-6332,Kacie.Lester@example.com,Toronto,Canada,101,Gatorade,YES,Yes,No,No
+897,981,$78.71,2023-09-14,Gwen Norris,699-606-9952,Gwen.Norris@example.com,San Diego,USA,,,,Yes,No,Yes
+237,981,$1.07,2023-02-13,Gwen Norris,699-606-9952,Gwen.Norris@example.com,San Diego,USA,,,,Yes,No,Yes
+566,984,$56.83,2023-04-01,Adrian Joseph,808-456-6071,Adrian.Joseph@example.com,Chicago,USA,,,,Yes,Yes,Yes
+419,986,$8.47,2023-08-21,Rosanna Dyer,512-600-6692,Rosanna.Dyer@example.com,Los Angeles,USA,,,,No,No,Yes
+734,986,$8.99,2024-02-29,Rosanna Dyer,512-600-6692,Rosanna.Dyer@example.com,Los Angeles,USA,,,,No,No,Yes
+764,989,$11.87,2023-06-19,Leyla Finley,743-377-7767,Leyla.Finley@example.com,New York,USA,,,,No,Yes,Yes
+935,989,$4.98,2023-06-22,Leyla Finley,743-377-7767,Leyla.Finley@example.com,New York,USA,,,,No,Yes,Yes
+289,990,$122.10,2023-01-22,Juliette Luna,782-806-6417,Juliette.Luna@example.com,New York,USA,,,,No,No,Yes
+303,993,$28.82,2023-08-24,Jayson Sutton,289-775-9088,Jayson.Sutton@example.com,Montreal,Canada,,,,No,Yes,Yes
+213,995,$2.49,2023-10-18,Raja Reeves,990-569-7356,Raja.Reeves@example.com,Montreal,Canada,,,,Yes,No,Yes
+984,997,$30.56,2023-01-25,Sam Arias,415-467-1137,Sam.Arias@example.com,Chicago,USA,,,,No,No,Yes
+779,998,$172.87,2024-02-27,Fatimah Johns,520-433-7411,Fatimah.Johns@example.com,London,United Kingdom,,,,No,No,Yes
+979,1000,$27.35,2023-05-30,Simeon Mccall,135-125-7738,Simeon.Mccall@example.com,San Francisco,USA,,,,Yes,Yes,No
+83,1000,$19.55,2022-04-01,Simeon Mccall,135-125-7738,Simeon.Mccall@example.com,San Francisco,USA,,,,Yes,Yes,No
+640,1000,$8.46,2022-05-25,Simeon Mccall,135-125-7738,Simeon.Mccall@example.com,San Francisco,USA,,,,Yes,Yes,No
+964,1000,$32.30,2022-11-21,Simeon Mccall,135-125-7738,Simeon.Mccall@example.com,San Francisco,USA,,,,Yes,Yes,No

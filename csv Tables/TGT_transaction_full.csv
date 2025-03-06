@@ -1,0 +1,297 @@
+transaction_id,store,phone,item,responded_to_promotion,quantity,price_per_item,total_item_amount,total_item_quantity_sold,total_item_quantity_sold_per_store,total_sales_per_store,total_sales_items_per_store,total_transaction_amount
+1130,BestChoice Buy,530-539-9474,Colgate,,3,3,9,58,11,221,33,20
+1026,BestChoice Buy,993-541-7464,Colgate,,2,3,6,58,11,221,33,10
+1015,BestChoice Buy,372-218-6551,Colgate,,1,3,3,58,11,221,33,17
+1006,BestChoice Buy,634-813-9351,Colgate,,2,3,6,58,11,221,33,17
+1013,BestChoice Buy,114-507-5478,Colgate,,1,3,3,58,11,221,33,11
+1047,BestChoice Buy,727-709-3351,Colgate,,2,3,6,58,11,221,33,14
+1013,BestChoice Buy,114-507-5478,Dove,,2,2,4,96,10,221,20,11
+1095,BestChoice Buy,441-847-1955,Dove,,2,2,4,96,10,221,20,4
+1097,BestChoice Buy,553-482-8315,Dove,,2,2,4,96,10,221,20,12
+1081,BestChoice Buy,390-911-6534,Dove,,3,2,6,96,10,221,20,23
+1133,BestChoice Buy,699-966-4749,Dove,,1,2,2,96,10,221,20,2
+1073,BestChoice Buy,583-114-3994,Kit-Kat,,3,3,9,46,11,221,33,9
+1092,BestChoice Buy,137-491-6519,Kit-Kat,,1,3,3,46,11,221,33,3
+1081,BestChoice Buy,390-911-6534,Kit-Kat,YES,3,3,9,46,11,221,33,23
+1141,BestChoice Buy,313-206-2033,Kit-Kat,,1,3,3,46,11,221,33,7
+1130,BestChoice Buy,530-539-9474,Kit-Kat,,2,3,6,46,11,221,33,20
+1120,BestChoice Buy,728-796-4352,Kit-Kat,,1,3,3,46,11,221,33,36
+1105,BestChoice Buy,805-146-4773,Kraft Cheese,,1,5,5,30,7,221,35,13
+1130,BestChoice Buy,530-539-9474,Kraft Cheese,,1,5,5,30,7,221,35,20
+1014,BestChoice Buy,558-608-9550,Kraft Cheese,,1,5,5,30,7,221,35,5
+1015,BestChoice Buy,372-218-6551,Kraft Cheese,,2,5,10,30,7,221,35,17
+1040,BestChoice Buy,220-102-3684,Kraft Cheese,,2,5,10,30,7,221,35,10
+1006,BestChoice Buy,634-813-9351,Netflix,,1,11,11,50,4,221,44,17
+1120,BestChoice Buy,728-796-4352,Netflix,,3,11,33,50,4,221,44,36
+1047,BestChoice Buy,727-709-3351,Pepsi,,2,4,8,58,6,221,24,14
+1015,BestChoice Buy,372-218-6551,Pepsi,,1,4,4,58,6,221,24,17
+1105,BestChoice Buy,805-146-4773,Pepsi,,1,4,4,58,6,221,24,13
+1081,BestChoice Buy,390-911-6534,Pepsi,,2,4,8,58,6,221,24,23
+1134,BestChoice Buy,919-925-5280,RedBull,,2,4,8,66,7,221,28,8
+1141,BestChoice Buy,313-206-2033,RedBull,,1,4,4,66,7,221,28,7
+1097,BestChoice Buy,553-482-8315,RedBull,,2,4,8,66,7,221,28,12
+1013,BestChoice Buy,114-507-5478,RedBull,,1,4,4,66,7,221,28,11
+1026,BestChoice Buy,993-541-7464,RedBull,,1,4,4,66,7,221,28,10
+1105,BestChoice Buy,805-146-4773,Oreo,,1,4,4,28,1,221,4,13
+1039,PetPals Mart,849-570-8792,Oreo,,2,3,6,28,10,323,30,9
+1122,PetPals Mart,782-806-6417,Oreo,,2,3,6,28,10,323,30,9
+1083,PetPals Mart,617-226-9486,Oreo,,1,3,3,28,10,323,30,15
+1117,PetPals Mart,629-807-5687,Oreo,,2,3,6,28,10,323,30,7
+1045,PetPals Mart,247-523-1403,Oreo,,2,3,6,28,10,323,30,6
+1046,PetPals Mart,950-639-9777,Oreo,,1,3,3,28,10,323,30,4
+1135,PetPals Mart,148-739-3707,Gatorade,,1,3,3,17,2,323,6,23
+1102,PetPals Mart,245-506-5389,Gatorade,,1,3,3,17,2,323,6,3
+1033,PetPals Mart,953-386-1321,Coca-Cola,,1,2,2,2,1,323,2,10
+1029,PetPals Mart,553-407-1049,RedBull,,1,3,3,66,13,323,39,16
+1070,PetPals Mart,111-862-3502,RedBull,,2,3,6,66,13,323,39,6
+1086,PetPals Mart,743-908-5464,RedBull,,2,3,6,66,13,323,39,6
+1082,PetPals Mart,782-806-6417,RedBull,,2,3,6,66,13,323,39,9
+1143,PetPals Mart,489-241-7631,RedBull,,1,3,3,66,13,323,39,3
+1074,PetPals Mart,429-916-1662,RedBull,,2,3,6,66,13,323,39,6
+1075,PetPals Mart,946-447-2454,RedBull,NO,2,3,6,66,13,323,39,8
+1036,PetPals Mart,891-887-3513,RedBull,,1,3,3,66,13,323,39,3
+1082,PetPals Mart,782-806-6417,Pepsi,,1,3,3,58,17,323,51,9
+1107,PetPals Mart,866-155-1011,Pepsi,,2,3,6,58,17,323,51,9
+1107,PetPals Mart,866-155-1011,Pepsi,,1,3,3,58,17,323,51,9
+1077,PetPals Mart,958-724-3846,Pepsi,,1,3,3,58,17,323,51,14
+1119,PetPals Mart,505-476-1251,Pepsi,,2,3,6,58,17,323,51,14
+1023,PetPals Mart,315-892-7127,Pepsi,,2,3,6,58,17,323,51,13
+1004,PetPals Mart,615-102-4849,Pepsi,,1,3,3,58,17,323,51,13
+1062,PetPals Mart,139-396-1336,Pepsi,,2,3,6,58,17,323,51,13
+1029,PetPals Mart,553-407-1049,Pepsi,,1,3,3,58,17,323,51,16
+1033,PetPals Mart,953-386-1321,Pepsi,,2,3,6,58,17,323,51,10
+1114,PetPals Mart,705-890-7715,Pepsi,,2,3,6,58,17,323,51,16
+1077,PetPals Mart,958-724-3846,Netflix,,1,10,10,50,12,323,120,14
+1083,PetPals Mart,617-226-9486,Netflix,,1,10,10,50,12,323,120,15
+1135,PetPals Mart,148-739-3707,Netflix,,2,10,20,50,12,323,120,23
+1004,PetPals Mart,615-102-4849,Netflix,,1,10,10,50,12,323,120,13
+1012,PetPals Mart,891-887-3513,Netflix,,3,10,30,50,12,323,120,32
+1029,PetPals Mart,553-407-1049,Netflix,,1,10,10,50,12,323,120,16
+1100,PetPals Mart,531-380-1711,Netflix,,1,10,10,50,12,323,120,12
+1139,PetPals Mart,582-574-4299,Netflix,,1,10,10,50,12,323,120,17
+1114,PetPals Mart,705-890-7715,Netflix,,1,10,10,50,12,323,120,16
+1050,PetPals Mart,424-390-3432,Kraft Cheese,,1,4,4,30,4,323,16,6
+1136,PetPals Mart,270-914-6681,Kraft Cheese,,2,4,8,30,4,323,16,11
+1119,PetPals Mart,505-476-1251,Kraft Cheese,,1,4,4,30,4,323,16,14
+1075,PetPals Mart,946-447-2454,Kit-Kat,,1,2,2,46,6,323,12,8
+1100,PetPals Mart,531-380-1711,Kit-Kat,,1,2,2,46,6,323,12,12
+1083,PetPals Mart,617-226-9486,Kit-Kat,,1,2,2,46,6,323,12,15
+1023,PetPals Mart,315-892-7127,Kit-Kat,,3,2,6,46,6,323,12,13
+1122,PetPals Mart,782-806-6417,Dove,,1,1,1,96,21,323,21,9
+1118,PetPals Mart,107-156-5064,Dove,,2,1,2,96,21,323,21,2
+1115,PetPals Mart,791-853-6464,Dove,,1,1,1,96,21,323,21,1
+1117,PetPals Mart,629-807-5687,Dove,,1,1,1,96,21,323,21,7
+1023,PetPals Mart,315-892-7127,Dove,,1,1,1,96,21,323,21,13
+1077,PetPals Mart,958-724-3846,Dove,,1,1,1,96,21,323,21,14
+1139,PetPals Mart,582-574-4299,Dove,,3,1,3,96,21,323,21,17
+1136,PetPals Mart,270-914-6681,Dove,,1,1,1,96,21,323,21,11
+1039,PetPals Mart,849-570-8792,Dove,,1,1,1,96,21,323,21,9
+1050,PetPals Mart,424-390-3432,Dove,,2,1,2,96,21,323,21,6
+1046,PetPals Mart,950-639-9777,Dove,,1,1,1,96,21,323,21,4
+1017,PetPals Mart,924-146-4189,Dove,,1,1,1,96,21,323,21,1
+1149,PetPals Mart,220-296-3772,Dove,,1,1,1,96,21,323,21,1
+1055,PetPals Mart,515-268-3667,Dove,,1,1,1,96,21,323,21,1
+1062,PetPals Mart,139-396-1336,Dove,,3,1,3,96,21,323,21,13
+1039,PetPals Mart,849-570-8792,Colgate,,1,2,2,58,13,323,26,9
+1062,PetPals Mart,139-396-1336,Colgate,,2,2,4,58,13,323,26,13
+1033,PetPals Mart,953-386-1321,Colgate,,1,2,2,58,13,323,26,10
+1035,PetPals Mart,544-944-1609,Colgate,,1,2,2,58,13,323,26,2
+1001,PetPals Mart,725-427-2794,Colgate,,1,2,2,58,13,323,26,2
+1139,PetPals Mart,582-574-4299,Colgate,,2,2,4,58,13,323,26,17
+1136,PetPals Mart,270-914-6681,Colgate,,1,2,2,58,13,323,26,11
+1119,PetPals Mart,505-476-1251,Colgate,,2,2,4,58,13,323,26,14
+1122,PetPals Mart,782-806-6417,Colgate,,1,2,2,58,13,323,26,9
+1012,PetPals Mart,891-887-3513,Colgate,,1,2,2,58,13,323,26,32
+1057,SparkMart,645-829-7495,Colgate,,2,4,8,58,8,231,32,32
+1124,SparkMart,247-523-1403,Colgate,,1,4,4,58,8,231,32,24
+1078,SparkMart,743-908-5464,Colgate,,1,4,4,58,8,231,32,4
+1008,SparkMart,839-124-9420,Colgate,,1,4,4,58,8,231,32,13
+1072,SparkMart,124-533-2523,Colgate,,3,4,12,58,8,231,32,21
+1072,SparkMart,124-533-2523,Dove,,3,3,9,96,7,231,21,21
+1007,SparkMart,273-616-5739,Dove,,3,3,9,96,7,231,21,22
+1140,SparkMart,821-675-4190,Dove,,1,3,3,96,7,231,21,8
+1007,SparkMart,273-616-5739,Kit-Kat,,2,4,8,46,5,231,20,22
+1061,SparkMart,752-347-2146,Kit-Kat,,2,4,8,46,5,231,20,20
+1008,SparkMart,839-124-9420,Kit-Kat,,1,4,4,46,5,231,20,13
+1079,SparkMart,549-515-6738,Kraft Cheese,,1,6,6,30,3,231,18,26
+1129,SparkMart,196-551-2162,Kraft Cheese,,2,6,12,30,3,231,18,17
+1054,SparkMart,227-737-8739,Netflix,,1,12,12,50,5,231,60,12
+1057,SparkMart,645-829-7495,Netflix,,2,12,24,50,5,231,60,32
+1061,SparkMart,752-347-2146,Netflix,,1,12,12,50,5,231,60,20
+1020,SparkMart,101-165-2021,Netflix,,1,12,12,50,5,231,60,22
+1020,SparkMart,101-165-2021,Pepsi,,2,5,10,58,7,231,35,22
+1124,SparkMart,247-523-1403,Pepsi,,2,5,10,58,7,231,35,24
+1079,SparkMart,549-515-6738,Pepsi,,3,5,15,58,7,231,35,26
+1129,SparkMart,196-551-2162,RedBull,,1,5,5,66,5,231,25,17
+1124,SparkMart,247-523-1403,RedBull,,2,5,10,66,5,231,25,24
+1007,SparkMart,273-616-5739,RedBull,,1,5,5,66,5,231,25,22
+1008,SparkMart,839-124-9420,RedBull,,1,5,5,66,5,231,25,13
+1079,SparkMart,549-515-6738,Gatorade,,1,5,5,17,2,231,10,26
+1098,SparkMart,145-501-4975,Gatorade,,1,5,5,17,2,231,10,10
+1140,SparkMart,821-675-4190,Oreo,,1,5,5,28,2,231,10,8
+1098,SparkMart,145-501-4975,Oreo,,1,5,5,28,2,231,10,10
+1025,Targeted Treasures,626-458-8110,RedBull,,2,5,10,66,3,34,15,10
+1068,Targeted Treasures,313-206-2033,RedBull,,1,5,5,66,3,34,15,11
+1146,Targeted Treasures,627-954-8991,Pepsi,,2,5,10,58,2,34,10,13
+1068,Targeted Treasures,313-206-2033,Dove,,2,3,6,96,3,34,9,11
+1146,Targeted Treasures,627-954-8991,Dove,,1,3,3,96,3,34,9,13
+1067,Trader Tales,878-870-9506,Dove,,2,2,4,96,24,451,48,9
+1056,Trader Tales,392-468-4297,Dove,,3,2,6,96,24,451,48,11
+1059,Trader Tales,516-779-4464,Dove,,2,2,4,96,24,451,48,4
+1060,Trader Tales,558-608-9550,Dove,,2,2,4,96,24,451,48,4
+1144,Trader Tales,312-891-9587,Dove,,3,2,6,96,24,451,48,6
+1037,Trader Tales,478-814-3941,Dove,,1,2,2,96,24,451,48,11
+1028,Trader Tales,776-243-3725,Dove,,1,2,2,96,24,451,48,2
+1087,Trader Tales,573-696-6671,Dove,,2,2,4,96,24,451,48,13
+1002,Trader Tales,659-190-9378,Dove,,1,2,2,96,24,451,48,16
+1094,Trader Tales,237-295-4490,Dove,,2,2,4,96,24,451,48,16
+1071,Trader Tales,723-357-7363,Dove,,2,2,4,96,24,451,48,8
+1106,Trader Tales,531-709-2553,Dove,,1,2,2,96,24,451,48,13
+1127,Trader Tales,598-173-8153,Dove,,1,2,2,96,24,451,48,12
+1112,Trader Tales,500-251-7080,Dove,,1,2,2,96,24,451,48,2
+1142,Trader Tales,547-388-2503,Colgate,,3,3,9,58,20,451,60,9
+1053,Trader Tales,561-761-7547,Colgate,,1,3,3,58,20,451,60,7
+1011,Trader Tales,520-305-7264,Colgate,,1,3,3,58,20,451,60,18
+1002,Trader Tales,659-190-9378,Colgate,,1,3,3,58,20,451,60,16
+1037,Trader Tales,478-814-3941,Colgate,,3,3,9,58,20,451,60,11
+1080,Trader Tales,480-560-1876,Colgate,,2,3,6,58,20,451,60,24
+1090,Trader Tales,202-632-2346,Colgate,,2,3,6,58,20,451,60,14
+1106,Trader Tales,531-709-2553,Colgate,,1,3,3,58,20,451,60,13
+1019,Trader Tales,362-464-9875,Colgate,,2,3,6,58,20,451,60,10
+1127,Trader Tales,598-173-8153,Colgate,,2,3,6,58,20,451,60,12
+1111,Trader Tales,481-405-7265,Colgate,,1,3,3,58,20,451,60,17
+1148,Trader Tales,778-566-2709,Colgate,,1,3,3,58,20,451,60,8
+1024,Trader Tales,640-390-3390,Netflix,,2,11,22,50,11,451,121,34
+1064,Trader Tales,811-806-5304,Netflix,,1,11,11,50,11,451,121,11
+1065,Trader Tales,558-134-7531,Netflix,,1,11,11,50,11,451,121,15
+1051,Trader Tales,336-283-3896,Netflix,,1,11,11,50,11,451,121,14
+1002,Trader Tales,659-190-9378,Netflix,,1,11,11,50,11,451,121,16
+1011,Trader Tales,520-305-7264,Netflix,,1,11,11,50,11,451,121,18
+1010,Trader Tales,444-295-8051,Netflix,,1,11,11,50,11,451,121,19
+1138,Trader Tales,659-190-9378,Netflix,,2,11,22,50,11,451,121,29
+1111,Trader Tales,481-405-7265,Netflix,,1,11,11,50,11,451,121,17
+1132,Trader Tales,545-458-1679,Kraft Cheese,,2,5,10,30,11,451,55,18
+1087,Trader Tales,573-696-6671,Kraft Cheese,,1,5,5,30,11,451,55,13
+1069,Trader Tales,194-235-2353,Kraft Cheese,,2,5,10,30,11,451,55,22
+1067,Trader Tales,878-870-9506,Kraft Cheese,,1,5,5,30,11,451,55,9
+1056,Trader Tales,392-468-4297,Kraft Cheese,,1,5,5,30,11,451,55,11
+1000,Trader Tales,233-159-4158,Kraft Cheese,,1,5,5,30,11,451,55,17
+1009,Trader Tales,645-829-7495,Kraft Cheese,,1,5,5,30,11,451,55,5
+1022,Trader Tales,918-588-9531,Kraft Cheese,,1,5,5,30,11,451,55,13
+1148,Trader Tales,778-566-2709,Kraft Cheese,,1,5,5,30,11,451,55,8
+1051,Trader Tales,336-283-3896,Kit-Kat,,1,3,3,46,4,451,12,14
+1080,Trader Tales,480-560-1876,Kit-Kat,,2,3,6,46,4,451,12,24
+1138,Trader Tales,659-190-9378,Kit-Kat,,1,3,3,46,4,451,12,29
+1127,Trader Tales,598-173-8153,Pepsi,,1,4,4,58,8,451,32,12
+1131,Trader Tales,778-172-1502,Pepsi,,1,4,4,58,8,451,32,12
+1087,Trader Tales,573-696-6671,Pepsi,,1,4,4,58,8,451,32,13
+1088,Trader Tales,173-881-1582,Pepsi,,1,4,4,58,8,451,32,4
+1019,Trader Tales,362-464-9875,Pepsi,,1,4,4,58,8,451,32,10
+1000,Trader Tales,233-159-4158,Pepsi,,1,4,4,58,8,451,32,17
+1010,Trader Tales,444-295-8051,Pepsi,,1,4,4,58,8,451,32,19
+1011,Trader Tales,520-305-7264,Pepsi,,1,4,4,58,8,451,32,18
+1069,Trader Tales,194-235-2353,RedBull,,3,4,12,66,16,451,64,22
+1065,Trader Tales,558-134-7531,RedBull,,1,4,4,66,16,451,64,15
+1010,Trader Tales,444-295-8051,RedBull,,1,4,4,66,16,451,64,19
+1022,Trader Tales,918-588-9531,RedBull,,2,4,8,66,16,451,64,13
+1024,Trader Tales,640-390-3390,RedBull,,3,4,12,66,16,451,64,34
+1131,Trader Tales,778-172-1502,RedBull,,2,4,8,66,16,451,64,12
+1080,Trader Tales,480-560-1876,RedBull,,3,4,12,66,16,451,64,24
+1138,Trader Tales,659-190-9378,RedBull,,1,4,4,66,16,451,64,29
+1000,Trader Tales,233-159-4158,Oreo,,2,4,8,28,9,451,36,17
+1094,Trader Tales,237-295-4490,Oreo,,3,4,12,28,9,451,36,16
+1053,Trader Tales,561-761-7547,Oreo,,1,4,4,28,9,451,36,7
+1071,Trader Tales,723-357-7363,Oreo,,1,4,4,28,9,451,36,8
+1106,Trader Tales,531-709-2553,Oreo,,2,4,8,28,9,451,36,13
+1091,Trader Tales,742-395-8995,Gatorade,,1,4,4,17,5,451,20,4
+1090,Trader Tales,202-632-2346,Gatorade,,2,4,8,17,5,451,20,14
+1132,Trader Tales,545-458-1679,Gatorade,,2,4,8,17,5,451,20,18
+1111,Trader Tales,481-405-7265,Coca-Cola,,1,3,3,2,1,451,3,17
+1101,Urban Outfitters Loft,551-867-4367,Gatorade,,1,3,3,17,8,445,24,7
+1038,Urban Outfitters Loft,742-395-8995,Gatorade,,1,3,3,17,8,445,24,36
+1041,Urban Outfitters Loft,805-146-4773,Gatorade,,2,3,6,17,8,445,24,8
+1145,Urban Outfitters Loft,416-776-3422,Gatorade,,1,3,3,17,8,445,24,7
+1085,Urban Outfitters Loft,507-766-7432,Gatorade,,2,3,6,17,8,445,24,7
+1121,Urban Outfitters Loft,271-604-3446,Gatorade,,1,3,3,17,8,445,24,9
+1125,Urban Outfitters Loft,626-458-8110,Oreo,,2,3,6,28,6,445,18,39
+1042,Urban Outfitters Loft,159-573-6793,Oreo,,1,3,3,28,6,445,18,4
+1030,Urban Outfitters Loft,782-806-6417,Oreo,,1,3,3,28,6,445,18,3
+1099,Urban Outfitters Loft,344-278-2013,Oreo,,1,3,3,28,6,445,18,3
+1093,Urban Outfitters Loft,663-149-3581,Oreo,,1,3,3,28,6,445,18,8
+1084,Urban Outfitters Loft,530-539-9474,RedBull,,2,3,6,66,22,445,66,8
+1076,Urban Outfitters Loft,254-627-7406,RedBull,,2,3,6,66,22,445,66,29
+1125,Urban Outfitters Loft,626-458-8110,RedBull,,1,3,3,66,22,445,66,39
+1109,Urban Outfitters Loft,368-154-2650,RedBull,,3,3,9,66,22,445,66,9
+1104,Urban Outfitters Loft,795-682-8733,RedBull,,2,3,6,66,22,445,66,13
+1108,Urban Outfitters Loft,652-272-9539,RedBull,,2,3,6,66,22,445,66,10
+1003,Urban Outfitters Loft,334-436-6254,RedBull,,1,3,3,66,22,445,66,13
+1063,Urban Outfitters Loft,553-407-1049,RedBull,,3,3,9,66,22,445,66,15
+1027,Urban Outfitters Loft,116-866-3838,RedBull,,2,3,6,66,22,445,66,14
+1048,Urban Outfitters Loft,883-481-7339,RedBull,,1,3,3,66,22,445,66,7
+1049,Urban Outfitters Loft,936-522-1085,RedBull,,2,3,6,66,22,445,66,10
+1052,Urban Outfitters Loft,738-911-3567,RedBull,,1,3,3,66,22,445,66,23
+1005,Urban Outfitters Loft,294-365-8364,Pepsi,,1,3,3,58,18,445,54,7
+1016,Urban Outfitters Loft,441-847-1955,Pepsi,,3,3,9,58,18,445,54,22
+1027,Urban Outfitters Loft,116-866-3838,Pepsi,,2,3,6,58,18,445,54,14
+1038,Urban Outfitters Loft,742-395-8995,Pepsi,,1,3,3,58,18,445,54,36
+1058,Urban Outfitters Loft,520-550-1148,Pepsi,,1,3,3,58,18,445,54,7
+1049,Urban Outfitters Loft,936-522-1085,Pepsi,,1,3,3,58,18,445,54,10
+1089,Urban Outfitters Loft,228-202-6360,Pepsi,,2,3,6,58,18,445,54,7
+1126,Urban Outfitters Loft,724-444-3001,Pepsi,,2,3,6,58,18,445,54,16
+1103,Urban Outfitters Loft,323-234-9528,Pepsi,,1,3,3,58,18,445,54,9
+1093,Urban Outfitters Loft,663-149-3581,Pepsi,,1,3,3,58,18,445,54,8
+1076,Urban Outfitters Loft,254-627-7406,Pepsi,,1,3,3,58,18,445,54,29
+1123,Urban Outfitters Loft,312-891-9587,Pepsi,,1,3,3,58,18,445,54,3
+1108,Urban Outfitters Loft,652-272-9539,Pepsi,,1,3,3,58,18,445,54,10
+1084,Urban Outfitters Loft,530-539-9474,Kit-Kat,,1,2,2,46,20,445,40,8
+1103,Urban Outfitters Loft,323-234-9528,Kit-Kat,,1,2,2,46,20,445,40,9
+1104,Urban Outfitters Loft,795-682-8733,Kit-Kat,,2,2,4,46,20,445,40,13
+1121,Urban Outfitters Loft,271-604-3446,Kit-Kat,,3,2,6,46,20,445,40,9
+1113,Urban Outfitters Loft,964-448-9785,Kit-Kat,,2,2,4,46,20,445,40,4
+1110,Urban Outfitters Loft,504-112-5228,Kit-Kat,,1,2,2,46,20,445,40,2
+1043,Urban Outfitters Loft,549-750-2047,Kit-Kat,,1,2,2,46,20,445,40,2
+1044,Urban Outfitters Loft,326-267-7811,Kit-Kat,,1,2,2,46,20,445,40,5
+1063,Urban Outfitters Loft,553-407-1049,Kit-Kat,,3,2,6,46,20,445,40,15
+1145,Urban Outfitters Loft,416-776-3422,Kit-Kat,,1,2,2,46,20,445,40,7
+1147,Urban Outfitters Loft,934-954-3387,Kit-Kat,,1,2,2,46,20,445,40,24
+1101,Urban Outfitters Loft,551-867-4367,Kit-Kat,,1,2,2,46,20,445,40,7
+1005,Urban Outfitters Loft,294-365-8364,Kit-Kat,,2,2,4,46,20,445,40,7
+1048,Urban Outfitters Loft,883-481-7339,Kraft Cheese,,1,4,4,30,5,445,20,7
+1003,Urban Outfitters Loft,334-436-6254,Kraft Cheese,,2,4,8,30,5,445,20,13
+1058,Urban Outfitters Loft,520-550-1148,Kraft Cheese,,1,4,4,30,5,445,20,7
+1103,Urban Outfitters Loft,323-234-9528,Kraft Cheese,,1,4,4,30,5,445,20,9
+1116,Urban Outfitters Loft,796-816-9963,Netflix,,1,10,10,50,18,445,180,11
+1076,Urban Outfitters Loft,254-627-7406,Netflix,,2,10,20,50,18,445,180,29
+1096,Urban Outfitters Loft,507-883-4629,Netflix,,1,10,10,50,18,445,180,10
+1125,Urban Outfitters Loft,626-458-8110,Netflix,,3,10,30,50,18,445,180,39
+1126,Urban Outfitters Loft,724-444-3001,Netflix,,1,10,10,50,18,445,180,16
+1052,Urban Outfitters Loft,738-911-3567,Netflix,,2,10,20,50,18,445,180,23
+1038,Urban Outfitters Loft,742-395-8995,Netflix,NO,3,10,30,50,18,445,180,36
+1147,Urban Outfitters Loft,934-954-3387,Netflix,,2,10,20,50,18,445,180,24
+1066,Urban Outfitters Loft,402-586-5192,Netflix,,2,10,20,50,18,445,180,21
+1016,Urban Outfitters Loft,441-847-1955,Netflix,,1,10,10,50,18,445,180,22
+1137,Urban Outfitters Loft,264-319-7312,Colgate,,1,2,2,58,6,445,12,3
+1021,Urban Outfitters Loft,563-494-9026,Colgate,,1,2,2,58,6,445,12,2
+1032,Urban Outfitters Loft,915-320-3214,Colgate,,1,2,2,58,6,445,12,2
+1034,Urban Outfitters Loft,731-730-2543,Colgate,,1,2,2,58,6,445,12,2
+1041,Urban Outfitters Loft,805-146-4773,Colgate,,1,2,2,58,6,445,12,8
+1147,Urban Outfitters Loft,934-954-3387,Colgate,,1,2,2,58,6,445,12,24
+1128,Urban Outfitters Loft,852-236-4050,Dove,,1,1,1,96,31,445,31,1
+1108,Urban Outfitters Loft,652-272-9539,Dove,,1,1,1,96,31,445,31,10
+1116,Urban Outfitters Loft,796-816-9963,Dove,,1,1,1,96,31,445,31,11
+1016,Urban Outfitters Loft,441-847-1955,Dove,,3,1,3,96,31,445,31,22
+1085,Urban Outfitters Loft,507-766-7432,Dove,,1,1,1,96,31,445,31,7
+1089,Urban Outfitters Loft,228-202-6360,Dove,,1,1,1,96,31,445,31,7
+1137,Urban Outfitters Loft,264-319-7312,Dove,,1,1,1,96,31,445,31,3
+1104,Urban Outfitters Loft,795-682-8733,Dove,,3,1,3,96,31,445,31,13
+1101,Urban Outfitters Loft,551-867-4367,Dove,,2,1,2,96,31,445,31,7
+1093,Urban Outfitters Loft,663-149-3581,Dove,,2,1,2,96,31,445,31,8
+1018,Urban Outfitters Loft,512-600-6692,Dove,,2,1,2,96,31,445,31,2
+1027,Urban Outfitters Loft,116-866-3838,Dove,,2,1,2,96,31,445,31,14
+1031,Urban Outfitters Loft,271-963-2123,Dove,,1,1,1,96,31,445,31,1
+1003,Urban Outfitters Loft,334-436-6254,Dove,,2,1,2,96,31,445,31,13
+1042,Urban Outfitters Loft,159-573-6793,Dove,,1,1,1,96,31,445,31,4
+1044,Urban Outfitters Loft,326-267-7811,Dove,,3,1,3,96,31,445,31,5
+1145,Urban Outfitters Loft,416-776-3422,Dove,,2,1,2,96,31,445,31,7
+1066,Urban Outfitters Loft,402-586-5192,Dove,,1,1,1,96,31,445,31,21
+1049,Urban Outfitters Loft,936-522-1085,Dove,,1,1,1,96,31,445,31,10

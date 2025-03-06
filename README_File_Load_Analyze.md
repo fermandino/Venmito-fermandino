@@ -11,7 +11,7 @@ This solution aims to consolidate and analyze data from multiple disparate sourc
 
 - **JSON**  (`people.json`) – Contains client information
 - **YAML** (`people.yml`) – Additional client data
-- **CSV** (`transfers.csv`, `promotions.csv`) – Records of transfered funds and promotions
+- **CSV** (`transfers.csv`, `promotions.csv`) – Records of transferred funds and promotions
 - **XML** (`transactions.xml`) – Transaction details
 
 The goal is to clean, transform, and match this data into a structured SQL Server database for easy querying and analysis.
@@ -66,22 +66,23 @@ The goal is to clean, transform, and match this data into a structured SQL Serve
      - stg_promotions
      - stg_transactions
      - stg_transfers
-
-#### **Step 2.5: Create Transformed Tables for Visualization **
-  1. Similar to step 2.1, open a new query window and execute the entirety of the code _venmito_creating_stg_tables_sql_scripts.sql_ located in the _Scripts_ folder
+       
+#### Step 2.5: Create Transformed Tables for analysis and Visualization
+  1. Similar to step 2.1, open a new query window and execute the entirety of the code _venmito_creating_target_tables_sql_scripts.sql_ located in the _Scripts_ folder
      - This will create a stored procedure and execute it as well.
+ 2. All tables are now avaialble in the schema for analysis and reporting.
+     - TGT_full_promotion_people
+     - TGT_transaction_full
+     - TGT_transfers_promo
 
 ## **Data Consumption**
-  1. Now that we have created a database and structured tables in SQL Server technical users can access the data for analysis or their respective needs. 
+  1. Now that we have created a database and structured tables in SQL Server, technical users can access the data for analysis or their respective needs. 
   2. With the creation of the database we are able to export the tables in a _csv_ file format and share with non-technical users. Please find the csv files in the _CSV Tables_ folder.
-  3. users with access Similar to step 2.1, open a new query window and execute the entirety of the code _venmito_creating_stg_tables_sql_scripts.sql_ located in the _Scripts_ folder
-     - This will create a stored procedure and execute it as well.
+  3. Data analysis and initial insight can be found in the _Scripts_ folder with file name venmito_insights_sql_scripts.sql
 
 ## **Future Enhancements**
-- **(Need to update wording)** Adding transfers.csv file to the importing all codes
-- Creating a connection to a visualization tool (like Tableau) for reporting graphs and additional insights for business and technical users. 
-- **(Need to update wording)** Create a Stored Procedure to create all SQL tables from 1 action
-- **(Need to update wording)** Update Database Schema by implementing rules in the ingestion and validation of records (Primary Keys, Nullable Columns, etc)
+- Adding the transfers.csv load step to the compiled file for simplicity.
 - Automate the pipeline by using orchestration tools like Airflow.
+- Update Database Schema by implementing rules in the ingestion and validation of records (Primary Keys, Nullable Columns, etc)
+- Creating a connection to a visualization tool (like Tableau) for reporting graphs and additional insights for business and technical users. 
 - Migrate to a cloud-based solution (e.g., AWS, Azure).
-- **(Need to update wording)** Tableau
